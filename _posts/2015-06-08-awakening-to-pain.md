@@ -2,7 +2,6 @@
 layout: post
 title: Awakening to Pain
 cover: Cloudscape.jpg
-date: 2015-06-08 18:46:20
 categories: awareness
 ---
 
