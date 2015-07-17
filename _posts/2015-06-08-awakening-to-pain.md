@@ -5,9 +5,6 @@ cover: Cloudscape.jpg
 date: 2015-06-08 18:46:20
 categories: awareness
 ---
-
-# Awakening to Pain
-
 > “The great art of life is sensation, to feel that we exist, even in pain.” ~Lord Byron
 
 I don’t think I can write enough about pain. It’s one of the constants of having a living, breathing, thinking, and feeling body. 
