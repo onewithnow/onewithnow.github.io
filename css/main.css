@@ -233,6 +233,11 @@ a:hover {
   padding-left: 2.125em;
 }
 
+@media (max-width:650px) {
+  #cover-photo {
+    max-width: 100%;
+  }
+
 .header {
   text-align: center;
   padding-top: 2.5em;
