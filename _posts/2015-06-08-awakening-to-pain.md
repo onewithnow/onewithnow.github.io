@@ -1,14 +1,12 @@
 ---
 layout: post
 title: Awakening to Pain
-cover: cloudscape.jpg
+cover: Cloudscape.jpg
 date: 2015-06-08 18:46:20
 categories: awareness
 ---
 
 # Awakening to Pain
-
-![Cloudscape](/wp-content/uploads/2015/06/Cloudscape.jpg)
 
 > “The great art of life is sensation, to feel that we exist, even in pain.” ~Lord Byron
 
