@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Awakening to Pain
+cover: cloudscape.jpg
+date: 2015-06-08 18:46:20
+categories: awareness
 ---
 
 # Awakening to Pain
@@ -46,6 +49,7 @@ We’ve been programmed differently. But we all have the following tools and cho
 **Feel.** Whatever sensations and feelings come up in the body, allow yourself to notice and attend to them, til they subside—without resistance, or judgment. This will help immensely in alleviating some of the mental and emotional symptoms of pain. 
 
 **Step away for a while.** If you feel overcome by pain, stop and walk away (if you can). It’s best to breathe, and take a break, before we make rash decisions that we might regret later. 
+
 **Calmly do what you can do.** If you can do anything to deal with the pain, now is the best time to do it. It’s not easy to feel calm when facing pain. Do the best you can—with the intention to remain calm. 
 
 **Ask for help**. If you’ve done your part and help is needed, seek help. It goes without saying that a health issue may require asking for help when it arises, instead of trying to do something ourselves. 
