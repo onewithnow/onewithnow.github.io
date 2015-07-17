@@ -1,4 +1,7 @@
+---
+layout: post
 title: Awakening to Pain
+---
 link: http://onewithnow.com/awakening-to-pain/
 author: lomac619
 description: 
