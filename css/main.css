@@ -128,7 +128,11 @@ a:hover {
   color: #787878;
 }
 
-#cover-photo-container,
+#cover-photo-container {
+max-width: 650px;
+display: block;
+}
+
 #info-container {
   display: block;
 }
