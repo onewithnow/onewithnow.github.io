@@ -131,7 +131,7 @@ a:hover {
 #cover-photo-container {
 max-width: 650px;
 display: block;
-margin-top: 5em;
+margin-top: 3em;
 }
 
 #info-container {
@@ -152,7 +152,7 @@ margin-top: 5em;
 
 .post {
   line-height: 24px;
-  max-width: 725px;
+  max-width: 650px;
   clear: both;
 }
 
