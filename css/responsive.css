@@ -1,6 +1,6 @@
-@media (max-width:650px) {
+@media (max-width:1309px) {
   #cover-photo {
-    max-width: 95%;
+    max-width: 50%;
   }
 
   .header {
@@ -16,7 +16,7 @@
   }
 }
 
-@media (max-width:650px) {
+@media (max-width:1090px) {
   #logo {
     max-width: 100px;
   }
