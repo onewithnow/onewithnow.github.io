@@ -1,5 +1,6 @@
 title: ONE WITH NOW
 baseurl: /onewithnow.github.io
+url: "http://onewithnow.github.io"
 permalink: /:title/
 
 markdown: redcarpet
