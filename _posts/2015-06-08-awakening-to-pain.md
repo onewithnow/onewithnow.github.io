@@ -5,6 +5,7 @@ categories: awareness
 ---
 ![Cloudscape](/media/cloudscape.jpg)
 
+
 > “The great art of life is sensation, to feel that we exist, even in pain.” ~Lord Byron
 
 I don’t think I can write enough about pain. It’s one of the constants of having a living, breathing, thinking, and feeling body. 
