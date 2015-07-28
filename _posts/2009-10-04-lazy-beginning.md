@@ -4,7 +4,7 @@ title: Lazy Beginnings
 categories: general
 ---
 
-![Sunrise](/media/begin.jpg)
+![Sunrise](/images/begin.jpg)
 
 > “I’m lazy. But it's the lazy people who invented the wheel and the bicycle because they didn't like walking or carrying things." \- Lech Walesa
 
