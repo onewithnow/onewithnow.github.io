@@ -161,6 +161,15 @@ margin-top: 3em;
   margin-bottom: 1.25em;
 }
 
+blockquote {
+  font: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+} 
+
 .post a,
 #about a {
   border-bottom: 1px solid #8085C1;
