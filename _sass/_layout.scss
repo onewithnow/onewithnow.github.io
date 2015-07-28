@@ -1,7 +1,7 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        min-height: 200px;
+        min-height: 150px;
         background-color: $brand-color;
         background-image: url('');
         background-size: cover;
@@ -9,7 +9,7 @@
         background-attachment: fixed;
 
         @include media-query($on-palm) {
-            min-height: 200px;
+            min-height: 150px;
             background-position: center;
         }
     }
