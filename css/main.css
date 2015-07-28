@@ -162,7 +162,9 @@ margin-top: 3em;
 }
 
 blockquote {
-  font: 14px/22px normal helvetica, sans-serif;
+  font-family: helvetica neue, sans-serif;
+  font-size: 18px;
+  font-color: #666666;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 50px;
