@@ -1,16 +1,16 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        min-height: 250px;
+        min-height: 200px;
         background-color: $brand-color;
         background-image: url('');
         background-size: cover;
-        background-position: center -170px;
+        background-position: center -100px;
         background-attachment: fixed;
 
         @include media-query($on-palm) {
-            min-height: 250px;
-            background-position: center -250px;
+            min-height: 200px;
+            background-position: center -200px;
         }
     }
 
@@ -18,8 +18,8 @@
 
     .site-header h1 {
         display: block;
-        font-size: 80px !important;
-        line-height: 80px;
+        font-size: 50px !important;
+        line-height: 50px;
         letter-spacing: 3px;
         text-align: center;
         padding-top: 20px;
