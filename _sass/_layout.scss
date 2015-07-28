@@ -25,7 +25,7 @@
         padding-top: 20px;
         clear: both;
         text-transform: uppercase;
-        font-family: 'Proxima Nova';
+        font-family: 'Arial';
 
         @include media-query($on-palm) {
             font-size:60px !important;
