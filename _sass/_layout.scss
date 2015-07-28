@@ -5,12 +5,12 @@
         background-color: $brand-color;
         background-image: url('');
         background-size: cover;
-        background-position: center -100px;
+        background-position: center;
         background-attachment: fixed;
 
         @include media-query($on-palm) {
             min-height: 200px;
-            background-position: center -200px;
+            background-position: center;
         }
     }
 
@@ -34,7 +34,7 @@
     }
 
     .site-header span {
-        border: 10px solid #FFF;
+        border: 0px solid #FFF;
         padding: 0.3em 0.5em;
         margin: 10px 20px;
         display: inline-block;
