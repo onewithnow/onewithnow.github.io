@@ -128,9 +128,11 @@ a:hover {
   color: #787878;
 }
 
-#img-container{
+#img {
 margin-top: 3em;
  display: block;
+ max-width:100%;
+ height: auto;
 }
 
 #info-container {
