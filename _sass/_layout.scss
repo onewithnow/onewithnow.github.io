@@ -18,7 +18,7 @@
 
     .site-header h1 {
         display: block;
-        font-size: 40px ;
+        font-size: 40px;
         line-height: 50px;
         letter-spacing: 3px;
         text-align: center;
@@ -53,9 +53,10 @@
 
         .page-link {
             line-height: $base-line-height;
+			font-size: 14px;
 			text-transform: uppercase;
         	font-family: 'Syncopate', sans-serif;
-            font-weight: normal;
+            font-weight: bold;
             letter-spacing: 0.05em;
 
             &:not(:first-child) {
