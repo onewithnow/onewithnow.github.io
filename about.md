@@ -7,7 +7,7 @@ One With Now (OWN) is about uncovering the peace within and making the best out 
 
 It provides practical advice on how to become more aware of this moment and accept it without resistance. It’s about reducing mental and emotional clutter and creating more space in your life for what truly matters—experiencing and embracing life moment by moment in the eternal now.
 
-My name is <b>Manal Ghosain</b> and I’m the writer of this blog. I live with my family in Vancouver, British Columbia. I’m a financial analyst, a simplicity enthusiast and a music composer in the making (have a long way to go).
+My name is **Manal Ghosain** and I’m the writer of this blog. I live with my family in Vancouver, British Columbia. I’m a financial analyst, a simplicity enthusiast and a music composer in the making (have a long way to go).
 
 I want to share with you my journey as I step out of restlessness and move more towards stillness and peace.
 

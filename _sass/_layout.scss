@@ -1,7 +1,7 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        min-height: 150px;
+        min-height: 55px;
         background-color: #617090;
         background-image: url('');
         background-size: cover;
@@ -9,7 +9,7 @@
         background-attachment: fixed;
 
         @include media-query($on-palm) {
-            min-height: 150px;
+            min-height: 55px;
             background-position: center;
         }
     }
@@ -18,17 +18,17 @@
 
     .site-header h1 {
         display: block;
-        font-size: 40px;
+        font-size: 16px;
         line-height: 50px;
         letter-spacing: 3px;
-        text-align: center;
+        text-align: left;
         padding-top: 10px;
         clear: both;
         text-transform: uppercase;
         font-family: 'Syncopate', sans-serif;
 
         @include media-query($on-palm) {
-            font-size:60px;
+            font-size:16px;
             letter-spacing: 0px;
         }
     }
@@ -53,7 +53,7 @@
 
         .page-link {
             line-height: $base-line-height;
-			font-size: 14px;
+			font-size: 12px;
 			text-transform: uppercase;
         	font-family: 'Syncopate', sans-serif;
             font-weight: bold;
