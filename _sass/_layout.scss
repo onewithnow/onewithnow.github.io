@@ -25,7 +25,7 @@
         padding-top: 10px;
         clear: both;
         text-transform: uppercase;
-        font-family: 'Syncopate', sans-serif;;
+        font-family: 'Syncopate', sans-serif;
 
         @include media-query($on-palm) {
             font-size:60px;
@@ -53,7 +53,9 @@
 
         .page-link {
             line-height: $base-line-height;
-            font-weight: bold;
+			text-transform: uppercase;
+        	font-family: 'Syncopate', sans-serif;
+            font-weight: normal;
             letter-spacing: 0.05em;
 
             &:not(:first-child) {
