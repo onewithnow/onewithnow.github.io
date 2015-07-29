@@ -11,3 +11,12 @@ Want to get in touch? I love hearing from you.
 - [Connect on Facebook.] (http://www.facebook.com/onewithnow) 
 
 <strong>Thank you for being here.</strong>
+
+
+
+
+
+
+
+
+
