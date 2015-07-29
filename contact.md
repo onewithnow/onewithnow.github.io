@@ -6,7 +6,7 @@ permalink: /contact/
 
 Want to get in touch? I love hearing from you. 
 
-- <a href=“mailto:own@onewithnow.com”>Click here to email me. </a>
+- [Click here to email me.] (mailto:own@onewithnow.com) {:target=“_blank”}
 - <a href=“http://www.twitter.com/onewithnow” target=“_blank”>Connect via Twitter.</a> 
 - <a href=“http://www.facebook.com/onewithnow” target=“_blank”>Connect on Facebook.</a> 
 
