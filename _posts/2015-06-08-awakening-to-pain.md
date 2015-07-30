@@ -3,11 +3,6 @@ layout: post
 title: Awakening to Pain
 author: Manal Ghosain
 categories: awareness
-post.excerpt: I don’t think I can write enough about pain. It’s one of the constants of having a living, breathing, thinking, and feeling body.
-
-Pain is inevitable. Yet it feels like we have to fight it. We want to stop it at all costs. And it’s understandable—we’re programmed to avoid discomfort.
-
-While pain may not be a welcomed guest, it does serve a significant purpose in our lives. 
 ---
 
 ![Cloudscape](/images/clouds.jpg)
@@ -18,7 +13,7 @@ I don’t think I can write enough about pain. It’s one of the constants of ha
 
 Pain is inevitable. Yet it feels like we have to fight it. We want to stop it at all costs. And it’s understandable—we’re programmed to avoid discomfort. 
 
-While pain may not be a welcomed guest, it does serve a significant purpose in our lives. <!--more-->
+While pain may not be a welcomed guest, it does serve a significant purpose in our lives.
 
 Whether the pain is physical, mental, or emotional, severe or mild, expected or unexpected, it’s here for a reason: to wake us up. 
 
