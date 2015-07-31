@@ -55,10 +55,7 @@ baseurl: ""
 
 markdown: redcarpet
 highlighter: pygments
-paginate: 1
-paginate_path: /page:num/
 permalink: /:title/
-realtive_permalinks: false
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
