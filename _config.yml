@@ -55,7 +55,6 @@ baseurl: ""
 
 markdown: redcarpet
 highlighter: pygments
-permalink: /:title/
 paginate: 1
 
 # The release of Jekyll Now that you're using
