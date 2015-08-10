@@ -5,7 +5,7 @@ author: Manal Ghosain
 categories: awareness
 ---
 
-! [This moment] (/images/moment.jpg)
+![This moment] (/images/moment.jpg)
 
 > “Whatever the present moment contains, accept it as if you had chosen it.” ~Eckhart Tolle
 
