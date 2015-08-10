@@ -88,4 +88,4 @@ So let’s get to work. No one is stopping us, other than ourselves. We may not 
 
 - [Doing the best you can](/doing-the-best-you-can/)
 - [How do you define your best?](/your-best/)
-- [How do you define your best?](/stop-or-go/)
+- [How do I know if I should give Up, or keep going?](/stop-or-go/)
