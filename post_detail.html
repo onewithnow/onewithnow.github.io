@@ -1,0 +1,9 @@
+<h1 class="entry-title">
+{% if page.title %}
+    <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+{% endif %}
+{% if post.title %}
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+{% endif %}
+</h1>
+<div class="entry-content">{{ content }}</div>
