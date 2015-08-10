@@ -3,6 +3,10 @@ layout: page
 title: Archives
 permalink: /archives/
 ---
+## August 2015
+- [5 Success Lessons from Famous People] (/famous-success)
+## July 2015
+- [The Power and Peace of Making a Decision] (/decide)
 
 ## October 2009
 
