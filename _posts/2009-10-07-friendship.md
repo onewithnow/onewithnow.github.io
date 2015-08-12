@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A True Star
+title: The Wealth of Friendship
 author: Manal Ghosain
 categories: [Inspiration]
 ---

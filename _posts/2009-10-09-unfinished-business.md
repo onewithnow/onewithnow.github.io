@@ -1,9 +1,9 @@
-—
+---
 layout: post
 title: A Tale of Unfinished Business
 author: Manal Ghosain
 categories: [Inspiration]
-—
+---
 
 ![Business](/images/business.jpg)
 
