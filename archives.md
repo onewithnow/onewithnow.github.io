@@ -24,10 +24,10 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## October 2009
 
-- [Has Presence Lost Its Mind?]
-- [The Storm Before The Calm]
-- [The Cleanup After]
-- [A Tale of Unfinished Business]
-- [The Wealth of Friendship]
-- [A True Star]
-- [Lazy Beginnings] (/begin)
+- [Has Presence Lost Its Mind?](/has-presence-lost-its-mind)
+- [The Storm Before The Calm](/the-storm-before-the-calm)
+- [The Cleanup After](/cleanup)
+- [A Tale of Unfinished Business](/unfinished-business)
+- [The Wealth of Friendship](/friendship)
+- [A True Star](/true-star)
+- [Lazy Beginnings](/begin)

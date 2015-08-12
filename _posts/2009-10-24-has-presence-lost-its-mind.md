@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A True Star
+title: Has Presence Lost Its Mind?
 author: Manal Ghosain
 categories: [Inspiration]
 ---
@@ -23,10 +23,6 @@ Being present is a state where you are **fully aware and focused** on the thing 
 
 When you are present your mind is not running stories about the drama of the past or wants or fears of the future. **You are fully immersed in what you are experiencing that time stands still.** It is referred to as a state of flow. You are one with your life. You are one with now, the present moment. 
 
-![12944421_8795d22d42](/wp-content/uploads/2009/10/12944421_8795d22d42.jpg)
-
-_Photo by __[gaspi_](http://www.flickr.com/photos/gaspi/12944421/)
-
 Presence is about acknowledging your thoughts and then moving on to what you are experiencing now. Presence may lead to enlightenment but it doesn't mean we can’t use it in our daily lives.
 
-Focus is one of the most effective ways to **enhance productivity and excel** in what we do. Mindfulness **adds flavour to every experience and makes it unique**. A calm, controlled mind may have a spiritual element if it leads to **awareness of our deeper selves and connectedness to life**.
+Focus is one of the most effective ways to **enhance productivity and excel** in what we do. Mindfulness **adds flavor to every experience and makes it unique**. A calm, controlled mind may have a spiritual element if it leads to **awareness of our deeper selves and connectedness to life**.
