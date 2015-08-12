@@ -2,7 +2,7 @@
 layout: post
 title: 5 Success Lessons from Famous People
 author: Manal Ghosain
-categories: productivity
+categories: [Productivity]
 ---
 ![Success](/images/success.jpg)
 
