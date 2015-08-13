@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Practical Steps to Being More Present
