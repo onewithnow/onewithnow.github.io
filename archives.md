@@ -27,7 +27,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [The Freedom of Not Knowing Your Life Purpose](/the-freedom-of-not-knowing-your-life-purpose)
 - [You’re More Successful Than You Think](/youre-more-successful-than-you-think)
 - [18 Tips to Endure the Long Rainy Season](/18-tips-to-endure-the-long-rainy-season)
-- [The Power of Surrender5 Ways Surrender](/power-of-surrender)
+- [The Power of Surrender](/power-of-surrender)
 - [What to Do When You Feel Like a Loser](/loser)
 - [Practical Steps to Being More Present](/practical-steps-to-being-more-present)
 - [Can Decluttering Be A Spiritual Act?](/can-decluttering-be-a-spiritual-act)
