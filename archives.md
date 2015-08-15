@@ -22,6 +22,11 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Who Is Taking Care of You?] (/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## December 2009
+
+
+- [Doing What Matters Without Managing Your Time](/doing-what-matters-without-managing-time)
+
 ## November 2009
 
 - [The Freedom of Not Knowing Your Life Purpose](/the-freedom-of-not-knowing-your-life-purpose)
