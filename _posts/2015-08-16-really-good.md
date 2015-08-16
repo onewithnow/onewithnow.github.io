@@ -82,7 +82,7 @@ These distinctions will make your life much easier, and help you prioritize your
 
 ## Factors to consider
 
-Once you prioritize your roles and activities, it’s time to [define](/your-best),for yourself, the quality and nature of the effort you’ll put into each skill level.
+Once you prioritize your roles and activities, it’s time to [define](/your-best), for yourself, the quality and nature of the effort you’ll put into each skill level.
 
 **Your own standards:** Because your priorities are as unique as you, your [metrics for success](/doing-the-best-you-can/), and progress, are your responsibility. What works for me may not work for you, and vice versa.
 
