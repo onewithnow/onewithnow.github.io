@@ -2,7 +2,7 @@
 layout: post
 title: What Do You Really Want to Be Good At?
 author: Manal Ghosain
-categories: [Productivity, Peace]
+categories: [Productivity]
 ---
 
 ![Your Own Success](/images/own-success.jpg)
