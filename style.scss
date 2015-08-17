@@ -199,9 +199,8 @@ img {
 nav {
   float: none;
   display: block;
-  margin-top: 23px; 
-  margin-bottom: 3px;
-   font-family: $helveticaNeue;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
   font-size: 15px;
 
   @include mobile {
