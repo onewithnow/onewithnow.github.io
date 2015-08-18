@@ -25,7 +25,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## December 2009
 
-- [The Joy of the Holidays](/the-Joy-of-the-holidays)
+- [The Joy of the Holidays](/the-joy-of-the-holidays)
 - [7 Tips to Focus on What Matters and Get It Done](/7-tips-to-focus-on-what-matters-and-get-it-done)
 - [What to Do When You Feel Stuck](/what-to-do-when-you-feel-stuck)
 - [Doing What Matters Without Managing Your Time](/doing-what-matters-without-managing-time)
