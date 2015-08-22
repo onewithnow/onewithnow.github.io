@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Embracing Your Obsessive Side: Why Obsession Can Be a Good Thing
+title: Embracing Your Obsessive Side (Why Obsession Can Be a Good Thing)
 author: Manal Ghosain
 categories: [Inspiration]
 ---
