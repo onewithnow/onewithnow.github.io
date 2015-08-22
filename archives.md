@@ -26,7 +26,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 ## February 2010
 
 - [Do You Really Have to Do Anything?](/do-you-really-have-to-do-anything)
-- [Embracing Your Obsessive Side: Why Obsession Can be a Good Thing](/embracing-your-obsessive-side-why-obsession-can-be-a-good-thing)
+- [Embracing Your Obsessive Side: Why Obsession Can Be a Good Thing](/embracing-your-obsessive-side-why-obsession-can-be-a-good-thing)
 - [Dealing with Indecision](/dealing-with-indecision)
 - [Why Intentions Are Not Enough](/why-intentions-are-not-enough)
 - [What I learned from My Latest Tantrum](/what-i-learned-from-my-latest-tantrum)
