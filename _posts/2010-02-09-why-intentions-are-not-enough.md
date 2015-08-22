@@ -13,7 +13,7 @@ The answer is: **you create your own internal hell.** Intentions you don't act o
 
 What may help in easing the suffering and managing this inner hell is to answer a couple of questions. 
 
-**Do you REALLY desire something and intend to make it a reality in your life? ** 
+**Do you REALLY desire something and intend to make it a reality in your life?** 
 
 When you intend to do something, mean it. Don't just add an item to your list without thinking about doing it. 
 

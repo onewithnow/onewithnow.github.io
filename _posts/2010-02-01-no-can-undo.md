@@ -19,7 +19,7 @@ How many times have you tried to use a tool that wasn't suitable but you keep tr
 
 A couple of years ago we sold our business assets and were left with some stuff. There was a lot of paper, labels and an expensive laser color printer. I kept trying to use the paper in all sorts of ways: making my own notepads, printing notices for our strata council and using it to scribble notes and ideas. The thing is I am not a paper person. I like to write mostly on my computer. So I was derailing myself by creating uses for something that I don't want to use. 
 
-**Think of how much time and energy we spend trying to justify or fix something we did? **
+**Think of how much time and energy we spend trying to justify or fix something we did?**
 
 **What is done is done.** We  simply can't UNDO anything. But we can take whatever consequence, deal with it and then move on. 
 

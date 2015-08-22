@@ -46,7 +46,7 @@ The above cost is not measurable in financial terms but it is more expensive tha
 
 **When we make decisions (right or wrong), we learn and grow with every experience. When we freeze in our tracks we remain where we are, or worse, we are left behind.**
 
-**Is it OK to want to be where you are? **
+**Is it OK to want to be where you are?**
 
 If you are content with your current status then it's perfectly fine. But if you have a desire to do something and don't want to take any more risks, then you are stagnating and will continue to struggle with indecision. 
 
@@ -54,15 +54,15 @@ In order to move forward, we need to accept where we are without beating ourselv
 
 You might find the following questions helpful in trying to figure out what's holding you back. Reflect on your answers. Allow your intuition to guide you. 
 
-**Do you still want to do it and why? **
+**Do you still want to do it and why?**
 
 If it is something that keeps nagging at you, then there is a desire in you to do it. The next step is to figure out why you want to do it. The reason behind it will uncover your true passion which can be a motivation by itself. 
 
-**What is stopping you? **
+**What is stopping you?**
 
 Examine the excuses you've been telling yourself: not good enough, don't know much, have nothing of value to offer, don't have enough money, too old, too young... you get the picture. 
 
-**How are you going to deal with your excuses? **
+**How are you going to deal with your excuses?**
 
 Most of the obstacles we create are a result of **limiting beliefs and conditioning**. The simplest way to overcome them is just to start moving. If it is money or physical abilities, explore what you can do about it. The resources will reveal themselves when you start looking. 
 
@@ -75,3 +75,5 @@ Imagine the worst case scenario. How much money would you lose? How bad are you 
 Determine what you can do NOW and start moving. A small step is all you need. 
 
 As you continue to move forward, you will feel less of your [inner resistance](http://zenhabits.net/the-reason-you%E2%80%99re-stuck/). Your experience will motivate you to overcome indecision.
+
+[Photo credit](https://www.flickr.com/photos/thesoupboy/2322886780/)

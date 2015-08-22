@@ -23,7 +23,7 @@ Here are a few examples of how obsession can be a good thing.
 
 Have a project lingering that you can’t seem to finish? Make it your new obsession. Think about it; make plans and work on it as if your life depended on it. Make it the love of your life till it's done. It is probably taking a lot of your mental space anyway. Think of how you will feel when you complete it. 
 
-**Practice makes improvement ** 
+**Practice makes improvement** 
 
 Put your energy and focus into practicing something you want to improve. Write more; play an instrument; learn to tap dance. Think about it a lot and make the new practice part of your daily habits. Look forward to the time you are going to do it. 
 
