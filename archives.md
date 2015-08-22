@@ -30,7 +30,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Is It Time to Stop Trying Too Hard?](/is-it-time-to-stop-trying-too-hard)
 - [Changing the World One Perspective at a Time](/changing-the-world-one-perspective-at-a-time)
 - [More or Less Life Reminders](/more-or-less-life-reminders)
-- [It’s Time to Ditch New Year’s Resolutions and Follow Your Heart?](/ditch-resolutions)
+- [It’s Time to Ditch New Year’s Resolutions and Follow Your Heart](/ditch-resolutions)
 
 ## December 2009
 
