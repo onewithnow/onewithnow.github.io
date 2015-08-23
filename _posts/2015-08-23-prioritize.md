@@ -83,7 +83,7 @@ If you’re unsure, pick a time and work with it, and then change it as you lear
 
 Take the first step, even if you’re not 100% sure. Only time will tell if you’re taking the right step. You started and that’s what matters.
 
-Once the priorities of the day are met, we can relax into whatever the day brings.
+Once the priorities of the day are met, we can relax into whatever the day brings. Or we can prioritize other choices.
 
 As you put your priorities to action, you’ll gain more clarity about what’s working, and what’s not.
 
