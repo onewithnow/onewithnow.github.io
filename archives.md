@@ -7,6 +7,8 @@ permalink: /archives/
 Articles published to date in reverse chronological order (from latest to earliest)
 
 ## August 2015
+
+- [The One Essential Productivity Skill We All Need to Master](/prioritize)
 - [What Do You Really Want to Be Good At?](/really-good)
 - [5 Success Lessons from Famous People] (/famous-success)
 
