@@ -6,7 +6,7 @@ categories: [Awareness]
 tags:
 ---
 
-![Waving flag](/flag.jpg)
+![Waving flag](images/flag.jpg)
 
 A few days back, I read a very interesting [article](http://balanceinme.com/balanced-mind-and-soul/are-you-a-social-chameleon/) about people acting differently in order to fit in. 
 
