@@ -20,10 +20,21 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## June 2015
 
-- [Making Time] (/making-time)
-- [Two Questions to Cope with Obsessive Worry] (/worry)
-- [Who Is Taking Care of You?] (/taking-care-of-you)
+- [Making Time](/making-time)
+- [Two Questions to Cope with Obsessive Worry](/worry)
+- [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
+
+## April 2010
+
+- [A Simple Way to De-clutter Your Home and Your Mind](/a-simple-way-to-de-clutter-your-home-and-your-mind)
+- [The Number One Reason Personal Development Doesn’t Work](/the-number-one-reason-personal-development-doesnt-work)
+- [How to Find Stillness in the Midst of Chaos](/how-to-find-stillness-in-the-midst-of-chaos)
+- [A True Measure of Your Value](a-true-measure-of-your-value)
+- [How to Find Clarity and Focus in the Age of Distraction](/how-to-find-clarity-and-focus-in-the-age-of-distraction)
+- [Who are You? 12 Questions to Uncover Your Truth](/who-are-you-12-questions-to-uncover-your-turth)
+- [7 Ways to Overcome Mental Laziness](/7-ways-to-overcome-mental-laziness)
+- [Awakening to Stress. Why Stress Can be Your Best Friend](/awakening-to-stress-why-stress-can-be-your-best-friend)
 
 ## March 2010
 
