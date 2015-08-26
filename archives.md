@@ -30,7 +30,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [A Simple Way to De-clutter Your Home and Your Mind](/a-simple-way-to-de-clutter-your-home-and-your-mind)
 - [The Number One Reason Personal Development Doesn’t Work](/the-number-one-reason-personal-development-doesnt-work)
 - [How to Find Stillness in the Midst of Chaos](/how-to-find-stillness-in-the-midst-of-chaos)
-- [A True Measure of Your Value](a-true-measure-of-your-value)
+- [A True Measure of Your Value](/a-true-measure-of-your-value)
 - [How to Find Clarity and Focus in the Age of Distraction](/how-to-find-clarity-and-focus-in-the-age-of-distraction)
 - [Who are You? 12 Questions to Uncover Your Truth](/who-are-you-12-questions-to-uncover-your-turth)
 - [7 Ways to Overcome Mental Laziness](/7-ways-to-overcome-mental-laziness)
