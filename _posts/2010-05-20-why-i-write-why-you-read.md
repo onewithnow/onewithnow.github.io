@@ -12,7 +12,9 @@ May 2010 marks the eighth month since I started One with Now. It is time for me 
 
 First of all, I’m so grateful to each one of you my beloved readers. A lot of you are friends and fellow bloggers whom I respect and admire. I am truly thankful for the time you spend reading and sharing your views in the comments. 
 
-**My Journey** I started this blog to express my thoughts and views on inner peace.  My philosophy is that inner peace is a result of awareness and surrender (accepting what is in this moment). Through writing I express my own awakening to what is and reflect on life’s gifts and challenges. 
+**My Journey** 
+
+I started this blog to express my thoughts and views on inner peace.  My philosophy is that inner peace is a result of awareness and surrender (accepting what is in this moment). Through writing I express my own awakening to what is and reflect on life’s gifts and challenges. 
 
 **My hope** 
 
@@ -30,7 +32,9 @@ So in my desire to inspire others, I grew as a person from writing and reflectin
 
 My connection to all of you gets stronger with every post and comment. I see more of our commonalities and desire for a peaceful life. 
 
-**Your journey** If you ask me what I wish for you, it would be that you have all of the above: inspiration, insight and growth. 
+**Your journey** 
+
+If you ask me what I wish for you, it would be that you have all of the above: inspiration, insight and growth. 
 
 In your journey with this blog, I hope that it helped you, even in the smallest of ways, to be in a better place in your life, to have more peace and joy. 
 

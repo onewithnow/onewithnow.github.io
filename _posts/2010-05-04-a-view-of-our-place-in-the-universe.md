@@ -20,22 +20,25 @@ We are lucky to be living in times where science and technology have advanced so
 
 The list below might give you an idea of how vast our universe is. 
 
-  * Earth is one of the smaller planets in our solar system with only one moon(Jupiter and Saturn have 62 moons each).
+Earth is one of the smaller planets in our solar system with only one moon(Jupiter and Saturn have 62 moons each).
+
 ![Solar system](/images/solar-system.jpg)
 
-  * Our star (the sun) is huge compared to the size of earth. About one million (1,000,000) earths would fit inside the sun.
+Our star (the sun) is huge compared to the size of earth. About one million (1,000,000) earths would fit inside the sun.
+
 ![Sun](/images/sun.jpg)
 
-  * Our galaxy (the Milky Way) which includes our solar system is comprised of at least 200 billion stars like our sun (more recent estimates put the number close to 400 billion). So our entire solar system is 1/200 billionth of our galaxy. Our sun cannot be seen when looking at the Milky Way.
+Our galaxy (the Milky Way) which includes our solar system is comprised of at least 200 billion stars like our sun (more recent estimates put the number close to 400 billion). So our entire solar system is 1/200 billionth of our galaxy. Our sun cannot be seen when looking at the Milky Way.
 
 ![The Milky Way](/images/milky-way.jpg)
 
-  * The universe has 100 billion galaxies. So our galaxy is 1/100 billionth of the universe. If we would look at the universe, each galaxy would look like a small bright object (image below enlarged). The estimated number of stars in the universe would be 20 billion trillion (or 20 sextillion) stars.
+The universe has 100 billion galaxies. So our galaxy is 1/100 billionth of the universe. If we would look at the universe, each galaxy would look like a small bright object (image below enlarged). The estimated number of stars in the universe would be 20 billion trillion (or 20 sextillion) stars.
+
 ![Universe](/images/universe.jpg)
 
-  * Where we fit into this equation: if our sun represents 1/20 sextillion, we can estimate that planet earth would be 1/million of that which would make our share of the universe to be …drum roll… **0.000000000000000000000000005%.**
+Where we fit into this equation: if our sun represents 1/20 sextillion, we can estimate that planet earth would be 1/million of that which would make our share of the universe to be …drum roll… **0.000000000000000000000000005%.**
 
-**In effect from the universe perspective, earth almost amounts to nothing. Each human being is 1/6 billion of this nothing! ** 
+**In effect from the universe perspective, earth almost amounts to nothing. Each human being is 1/6 billion of this nothing!** 
 
 **How does this view impact our lives?** 
 
@@ -49,7 +52,7 @@ Okay now we know we really don’t matter much in the largest scheme of things. 
 
 **The universe is not perfect, nor should we be**. The imperfection in the universe is what allowed creation and life to materialize in the first place. We can view our own imperfections as ways to express our uniqueness and creativity. 
 
-**Every form of existence grows, contracts and eventually dies**. From the big bang to the immeasurable size of the universe, every physical form has a beginning and an end. Our planet will die at one point and so will our sun. This is part of the evolution of the cosmos.  Death from a cosmic view is not the end of life but rather the transformation of energy; the end of one form can be the beginning of another. Fearing death or fighting it is futile. 
+**Every form of existence grows, contracts and eventually dies.** From the big bang to the immeasurable size of the universe, every physical form has a beginning and an end. Our planet will die at one point and so will our sun. This is part of the evolution of the cosmos.  Death from a cosmic view is not the end of life but rather the transformation of energy; the end of one form can be the beginning of another. Fearing death or fighting it is futile. 
 
 **We don't and can’t know everything**. We are only a small, invisible, almost nonexistent, blip on the radar of the universe. As we continue to evolve and grow, we will gain more knowledge and understanding of the cosmos. This growth should come with the understanding that we may never know the real purpose of our evolution and life. We are here for a brief moment in time and space; all that matters is that we enjoy the ride and let the rest unfold in due course. 
 

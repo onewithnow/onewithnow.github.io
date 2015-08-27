@@ -44,13 +44,15 @@ Allow the negativity to pass through you; don’t resist. Cry if you need to. Wr
 
 Suppressing the negative emotions doesn't do you any good. It actually makes them stronger. This is one of the main culprits in making a situation worse. 
 
-**4\. Remember: things can be much worse.** 
+**4. Remember: things can be much worse.** 
 
 I kept reminding myself that what I was going through was nothing in the [larger](/a-view-of-our-place-in-the-universe/) scheme of things. I am alive after all and have the ability to deal with the situation. 
 
 Think of your worst nightmare when it comes to the issue you’re dealing with. Can you cope with that? 
 
-**5. Do one thing at a time. ** When faced with an unexpected problem, it is easy to feel overwhelmed. The best thing is to start dealing with one issue at a time. 
+**5. Do one thing at a time.** 
+
+When faced with an unexpected problem, it is easy to feel overwhelmed. The best thing is to start dealing with one issue at a time. 
 
 In my case, most of the mess I made was because instead of focusing on removing the bad code, I started messing with plug-ins and other stuff that I didn’t need to deal with. In time,  I got the bad code removed then re-established the links, removed the plug-ins and so on. 
 
@@ -62,7 +64,9 @@ This is the most important and difficult thing to do.  It is hard to step away 
 
 With time, your mind gets tired and even bored dealing with the same thing. You need a break. If you don’t take some time off, you are bound to make more mistakes or keep going in circles not accomplishing anything. 
 
-**7. Go back to the issue with fresh eyes.** You will come with a pair of fresh eyes and a renewed focus. This is when you can tackle what is left of your problem with ease and a new perspective. 
+**7. Go back to the issue with fresh eyes.** 
+
+You will come with a pair of fresh eyes and a renewed focus. This is when you can tackle what is left of your problem with ease and a new perspective. 
 
 In my case I had to force myself to take a few breaks—I had to eat and sleep after all :). I solved all of my issues (without exception) after the breaks. 
 
@@ -72,7 +76,9 @@ Do the above two steps until you are done, even if it takes you days. Don’t th
 
 It took me a couple of days to deal with the hacking situation and that is fine. Things have a funny way of taking their time to get sorted out. 
 
-**9. Determine what you can change.** Now that you have dealt with your situation, how can you do thing differently in the future to reduce the chances of the same problem happening again?  Notice that I said reduce and not eliminate.  Nothing you do is a 100% guarantee. If someone is set out to find a loophole, they will find one. Your role is to make it more difficult for the same problem to arise again. 
+**9. Determine what you can change.** 
+
+Now that you have dealt with your situation, how can you do thing differently in the future to reduce the chances of the same problem happening again?  Notice that I said reduce and not eliminate.  Nothing you do is a 100% guarantee. If someone is set out to find a loophole, they will find one. Your role is to make it more difficult for the same problem to arise again. 
 
 After getting my site up and running again, I created a simple system to back-up my files. I also reset all of my passwords and removed all of the cookies. 
 

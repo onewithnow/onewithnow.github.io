@@ -18,9 +18,9 @@ Yes seconds. How many of you played the game? Did you feel guilty playing instea
 
 The cost of lost productivity is an estimate of the cost of time spent playing instead of working. What about the fun people had? Shouldn’t it account for something? If employees had fun, wouldn’t that reflect positively on their work?  
 
-**The human machine** I
+**The human machine**
 
-n modern society an employee’s contribution is based on the hours they work and the value (income) of what they produce. In other words, we replaced manufacturing equipment hours with human hours. We are the new machines. 
+In modern society an employee’s contribution is based on the hours they work and the value (income) of what they produce. In other words, we replaced manufacturing equipment hours with human hours. We are the new machines. 
 
 **Productivity numbers are misleading.** 
 
@@ -53,7 +53,9 @@ I am no economist but if I were to come up with my own system of measuring value
 
 **No guilt or stress.** I would make sure the workplace stays guilt and anxiety free. This would energize people and get them excited about their work. 
 
-**The big picture—life doesn’t stop ** People stopped and played Pac-Man. The lost productivity did not make any difference in how people lived their life that day. 
+**The big picture—life doesn’t stop.** 
+
+People stopped and played Pac-Man. The lost productivity did not make any difference in how people lived their life that day. 
 
 Life moves along with or without productivity. Why not make work more fun and trust that things will get done? 
 

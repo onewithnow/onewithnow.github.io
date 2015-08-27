@@ -25,6 +25,17 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+
+## May 2010
+
+- [The Cosmic Creative Process - Transforming Chaos to Beauty](/the-cosmic-creative-process)
+- [The Dark Side of Productivity](/the-dark-side-of-productivity/)
+- [Are You OK With Being Invisible?](/are-you-ok-with-being-invisible)
+- [Why I Write … Why You Read](/why-i-write-why-you-read)
+- [How to Find the Light When the Tunnel Keeps Getting Darker](/how-to-find-the-light-when-the-tunnel-keeps-getting-darker)
+- [Pure Joy Comes from the Simplest Acts](/pure-joy-comes-from-the-simplest-acts)
+- [Our Place in the Universe - How to Navigate Life from a Cosmic Perspective](/a-view-of-our-place-in-the-universe/)
+
 ## April 2010
 
 - [A Simple Way to De-clutter Your Home and Your Mind](/a-simple-way-to-de-clutter-your-home-and-your-mind)
@@ -34,7 +45,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [How to Find Clarity and Focus in the Age of Distraction](/how-to-find-clarity-and-focus-in-the-age-of-distraction)
 - [Who are You? 12 Questions to Uncover Your Truth](/who-are-you-12-questions-to-uncover-your-turth)
 - [7 Ways to Overcome Mental Laziness](/7-ways-to-overcome-mental-laziness)
-- [Awakening to Stress. Why Stress Can be Your Best Friend](/awakening-to-stress-why-stress-can-be-your-best-friend)
+- [Awakening to Stress - Why Stress Can be Your Best Friend](/awakening-to-stress-why-stress-can-be-your-best-friend)
 
 ## March 2010
 
