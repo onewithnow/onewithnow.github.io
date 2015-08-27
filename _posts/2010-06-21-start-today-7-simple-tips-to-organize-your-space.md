@@ -50,7 +50,7 @@ Here is my process:
 
 If you are interested to see images of my office space before and after,  check out this video (length 2:40).
 
-<iframe width=“640” height=“480” src=“https://www.youtube.com/embed/WJT14Tixr0Y” frameborder=“0” “allowfullscreen”> </iframe>
+<iframe width=“640” height=“480” src=“https://www.youtube.com/embed/WJT14Tixr0Y” frameborder=“0”> </iframe>
 
 There is an amazing feeling of lightness and relief after you get rid of stuff and make sense of what you have. You will also have a reason to celebrate your accomplishment;  you completed something you've been wanting to do for a while. If you have something you need to organize and simplify, go for it. Now is the best time. 
 
