@@ -26,6 +26,14 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Awakening to Pain](/awakening-to-pain)
 
 
+## June 2010
+
+- [10 Things I Wish We Could Teach Every Child](10-things-i-wish-we-could-teach-every-child)
+- [How to Find Peace in Times of Adversity](/how-to-find-peace-in-times-of-adversity)
+- [Start Today - 7 Simple Tips to Organize Your Space](/start-today-7-simple-tips-to-organize-your-space)
+- [5 Reasons to Let Go of Your Story](/5-reasons-to-let-go-of-your-story)
+- [The Art of Slow](/the-art-of-slow)
+
 ## May 2010
 
 - [The Cosmic Creative Process - Transforming Chaos to Beauty](/the-cosmic-creative-process)
