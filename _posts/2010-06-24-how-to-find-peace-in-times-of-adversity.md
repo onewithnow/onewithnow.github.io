@@ -76,4 +76,4 @@ The important thing at this time is to find closure and move on. If you stay stu
 
 It is not easy and we may never know the ultimate cosmic reason for what happens and to whom. But we all know that no one is immune to it. The thing that we need to remember the most is: we all have within us the eternal life that creates, endures and evolves. 
 
-> “Adversity is the diamond dust Heaven polishes its jewels with.”  ~Thomas Carlyle quotes
+> “Adversity is the diamond dust Heaven polishes its jewels with.”  ~Thomas Carlyle

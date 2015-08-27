@@ -48,7 +48,9 @@ Here is my process:
   * Be aware of what is working and what is not. When something is not working, deal with it right away. Don't put stuff in a box to deal with later.
   * Simplify as much as possible. Continue to eliminate things that have not been used.
 
-![If you are interested to see images of my office space before and after,  check out this video (length 2:40).]
+If you are interested to see images of my office space before and after,  check out this video (length 2:40).
+
+<iframe width=“420” height=“315” src=“https://www.youtube.com/embed/WJT14Tixr0Y” frameborder=“0” allowfullscreen>&nbsp;</iframe>
 
 There is an amazing feeling of lightness and relief after you get rid of stuff and make sense of what you have. You will also have a reason to celebrate your accomplishment;  you completed something you've been wanting to do for a while. If you have something you need to organize and simplify, go for it. Now is the best time. 
 
