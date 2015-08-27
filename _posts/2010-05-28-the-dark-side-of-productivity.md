@@ -28,7 +28,7 @@ The focus on time spent as a metric for producing results is a simple way of cal
 
 **Standardizing human effort.** Life is change. Everything varies from minute to minute let alone days and years. Standardizing human effort can be meaningless. People have good days and bad days. Their focus shifts with their energy level. They don’t perform at the same level consistently. 
 
-**More is better.** If we measure lost productivity in hours wasted, then the opposite should be true. The more hours you work, the more productive you are. The exact opposite is true; working long hours is [counterproductive](https://hbr.org/2010/05/for-real-productivity-less-is.html)
+**More is better.** If we measure lost productivity in hours wasted, then the opposite should be true. The more hours you work, the more productive you are. The exact opposite is true; working long hours is [counterproductive](https://hbr.org/2010/05/for-real-productivity-less-is.html).
 
 
 **Value based on time.** Your contribution is based on how many hours you spend working. The thing is: this method does not factor in that each individual can only work at their own pace. One can create great value in less hours. Another can take forever and produce mediocre results. Time is a factor but should not be the most important one. 
