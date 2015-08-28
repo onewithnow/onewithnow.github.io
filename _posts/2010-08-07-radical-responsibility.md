@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-![Moon](/images/moon.jpg)title: 
+![Moon](/images/moon.jpg) 
 
 It’s not my fault. He did it. Don’t blame me; she’s the one who can’t seem to get anything done. 
 

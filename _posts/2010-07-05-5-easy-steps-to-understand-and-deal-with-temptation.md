@@ -24,7 +24,7 @@ Take infidelity for example.  It can represent a desire to compensate for feeli
 
 You can draw the same conclusions about any other excessive behavior and desire: overeating, alcohol and substance abuse,  laziness and inaction, overspending, not spending enough, explosive anger and so on. 
 
-**Every temptation is rooted in us, not the outside world.** No one or nothing is trying to test you and undermine your success. It is a sign that something is out of balance in your life. *
+**Every temptation is rooted in us, not the outside world.** No one or nothing is trying to test you and undermine your success. It is a sign that something is out of balance in your life.
 
 **What is temptation trying to tell you?** 
 

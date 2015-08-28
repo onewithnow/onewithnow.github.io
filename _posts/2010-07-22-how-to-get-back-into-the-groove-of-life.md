@@ -60,7 +60,9 @@ If you continue to focus on just two items and getting them done, you will build
 
 ## 9. Don't over-commit.
 
-Once you’re back, demands start to pile and pressure starts to build. Don’t take on more than you have—unless you absolutely have to. In this case, push one or two things further down your list. Commit less and do more and in no time you will be on top of your game. 
+Once you’re back, demands start to pile and pressure starts to build. Don’t take on more than you have—unless you absolutely have to. In this case, push one or two things further down your list. 
+
+Commit less and do more and in no time you will be on top of your game. 
 
 ## 10. Allow your mind and body to adjust.
 

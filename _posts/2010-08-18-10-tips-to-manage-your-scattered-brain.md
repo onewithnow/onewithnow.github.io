@@ -24,7 +24,7 @@ I have been implementing the tips below to deal with my scattered brain. I'm slo
 
 This is the most obvious and probably one that is listed in every productivity book and article out there. The importance of this step cannot be overstated. 
 
-If you don’t know what you want and stuff is just floating in your head, you’ll never get the satisfaction of doing anything. So yes make a list of everything that is on your mind. Then _[Prioritize_](/two-simple-tools-to-set-your-priorities-straight/)—with a capital P. This is where you get to tell your brain to stop fretting about the small stuff and focus on what is really important. 
+If you don’t know what you want and stuff is just floating in your head, you’ll never get the satisfaction of doing anything. So yes make a list of everything that is on your mind. Then [Prioritize](/two-simple-tools-to-set-your-priorities-straight/)—with a capital P. This is where you get to tell your brain to stop fretting about the small stuff and focus on what is really important. 
 
 ## 2. Break it down and keep it simple.
 

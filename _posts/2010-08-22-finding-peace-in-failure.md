@@ -8,7 +8,9 @@ tags:
 
 ![Failing](/images/failing.jpg)
 
-Failure is scary. Who wants to face loss and admit defeat? As much as we try to avoid failing, it is an essential part of experiencing life. We can’t always be expected to do the right thing and get the right results. Something goes wrong and we end up with results far from favorable. 
+Failure is scary. Who wants to face loss and admit defeat? 
+
+As much as we try to avoid failing, it is an essential part of experiencing life. We can’t always be expected to do the right thing and get the right results. Something goes wrong and we end up with results far from favorable. 
 
 With this comes a hefty price tag. We can lose our livelihood, relationships, an opportunity or simply sustain a blow to our ego. 
 
