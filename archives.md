@@ -25,6 +25,19 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## August 2010
+
+- [The Power of Small](/the-power-of-small)
+- [Finding Peace in Failure: A Simple Approach to Moving Forward](/finding-peace-in-failure)
+- [10 Tips to Manage Your Scattered Brain](/10-tips-to-manage-your-scattered-brain)
+- [Radical Responsibility: The First Step in Changing Your World](/radical-responsibility)
+
+## July 2010
+
+- [Family: Why it Matters More Than You Think](/family-why-it-matters-more-than-you-think)
+- [How to Get Back Into The Groove of Life](/how-to-get-back-into-the-groove-of-life)
+- [Is It Time to Stop Playing Catch-up?](/is-it-time-to-stop-playing-catch-up)
+- [5 Easy Steps to Understand and Deal With Temptation](/5-easy-steps-to-understand-and-deal-with-temptation)
 
 ## June 2010
 
