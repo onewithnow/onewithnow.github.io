@@ -39,37 +39,37 @@ This life cleanse is for anyone who wants to shake things up a bit, gain clarity
 
 ## 7 reasons why I’m recommending this book
 
-#### 1. It’s practical and doable.
+**1. It’s practical and doable.**
 
 This is not a book to read (consume) and put away. It’s something you work with to change your life. 
 
 For each week and day, you have actionable steps that guide you through the process to achieve the main goal of the week. 
 
-#### 2. It’s from the heart to the heart.
+**2. It’s from the heart to the heart.**
 
 This guide was written from the heart with love and a true desire to inspire you to have the life you deserve. Momentum gathers with ease when your heart is at work. It is fed by joy and passion. 
 
 As you go through the process, you will feel lighter, your heart will open up and you will become more motivated and inspired to move forward. 
 
-#### 3. It works.
+**3. It works.**
 
 Katie writes from her personal experience and knows firsthand the joys and rewards that come from infusing your life with momentum—and that I can attest to from the parts I’ve worked with in my life. I fully plunged into weeks 1 and 6 (my favorite) and dipped into the other weeks. In the process, I gained more clarity and drive to keep going. 
 
-#### 4. It’s timeless.
+**4. It’s timeless**.
 
 The guidance in this book can be used over and over whenever you feel the need to address a specific part of your life, or go over the entire process. The life cleanse is designed to be flexible and adaptable. 
 
-#### **5. It’s fun**.
+**5. It’s fun**.
 
 As Katie puts it, momentum is fueled by a light heart. Katie’s writing style and voice take you to the depth of soul searching and cleansing in a fun and entertaining way. As you navigate your way through the process, you will laugh; you will smile and you will open your heart and soul. 
 
-#### **6. It’s personal**.
+**6. It’s personal.**
 
 This is your journey. Do what works for you and tailor the process to your needs. Do it at your own pace and in as much depth as you like. You can simply dip your toes or fully immerse yourself in the process. 
 
 This added flexibility eases you into change instead of creating stress with deadlines and rigid steps. 
 
-#### 7. It’s peaceful.
+**7. It’s peaceful.**
 
 You can’t get momentum in a frenzied life. You start from a calm place. Every step of the process is gentle on your body, heart and soul. Your days flow naturally, with ease as you slowly dig within and create space for stillness. You rediscover yourself… accept yourself… and love yourself. 
 

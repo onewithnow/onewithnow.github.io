@@ -30,7 +30,9 @@ How do we do that? Look at some of the ways you stand in your way.
 
 **Rollercoaster rides.** You get either bursts of optimism or large doses of pessimism. You can’t seem to be just OK. Okay to you is indifference and lack of interest rather than being content and fulfilled. 
 
-The swings are not limited to emotions and attitudes but extend to behavioral extremes like fear and recklessness or haste and procrastination. The middle ground does not know you. You’re not familiar with it. The above are only examples of how you can block your own success and deprive yourself of the life you deserve. We all do it at one point or another. The trick is to recognize where we are at and make a conscious decision to move past our emotional roadblocks and mental fences. 
+The swings are not limited to emotions and attitudes but extend to behavioral extremes like fear and recklessness or haste and procrastination. The middle ground does not know you. You’re not familiar with it. 
+
+The above are only examples of how you can block your own success and deprive yourself of the life you deserve. We all do it at one point or another. The trick is to recognize where we are at and make a conscious decision to move past our emotional roadblocks and mental fences. 
 
 I’ll talk about how you can get out of your way and move forward in the next article. In the mean time, I hope you get a chance to look within and ask yourself: can you get out of your own way? 
 

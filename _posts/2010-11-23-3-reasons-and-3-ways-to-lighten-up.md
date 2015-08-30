@@ -46,7 +46,7 @@ The most important thing you can do is to say no to any new commitments. If you 
 
 Don’t be afraid to do things differently. Focus on what works for you and keep with your own pace—not others’. 
 
-This is the first step. You can’t feel lighter when you’re under attack by never-ending demands that you take too seriously. Skills that can help you in this process are [prioritization](/two-simple-tools-to-set-your-priorities-straight/), organization and an effective [work process](http://onewithnow.com/a-practical-guide-to-peace-of-mind-project-management/). 
+This is the first step. You can’t feel lighter when you’re under attack by never-ending demands that you take too seriously. Skills that can help you in this process are [prioritization](/two-simple-tools-to-set-your-priorities-straight/), organization and an effective [work process](/a-practical-guide-to-peace-of-mind-project-management/). 
 
 **2. Do less and less** 
 
@@ -64,7 +64,9 @@ Skills that can help you with this: [focus](/how-to-find-clarity-and-focus-in-th
 
 Notice that I said what you do and not what results you get. Focus on the doing and the feelings that come with it. Enjoy the ride. 
 
-Now my friends this part is an art and we all were masters at it when we were children. Find that inner child and let him/her reign. This step requires more of a mindset than skills. Allow yourself to take breaks and do nothing. Practice true mindful living, paying attention—explore the wonders of life in the [smallest of things](/pure-joy-comes-from-the-simplest-acts/). Smile, play and love. All you need is a light heart and a willing spirit. 
+Now my friends this part is an art and we all were masters at it when we were children. Find that inner child and let him/her reign. 
+
+This step requires more of a mindset than skills. Allow yourself to take breaks and do nothing. Practice true mindful living, paying attention—explore the wonders of life in the [smallest of things](/pure-joy-comes-from-the-simplest-acts/). Smile, play and love. All you need is a light heart and a willing spirit. 
 
 > “Man, unlike the animal, has never learned that the sole purpose of life is to enjoy it.” ~Samuel Butler
 

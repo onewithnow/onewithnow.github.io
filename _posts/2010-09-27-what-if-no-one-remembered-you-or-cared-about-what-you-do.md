@@ -11,7 +11,9 @@ tags:
 
 One of my favorite bloggers asserts that we are here on this planet at this particular point in time to try to change the world. If we don’t start working and leading toward this goal, no one will remember us when we’re gone. 
 
-I have a different take on this topic. How would you feel if you didn’t change the world and no one remembered you or cared that you were gone? How would you live today, tomorrow and the day after? Do you miss out on life if you don’t do important life changing work?
+I have a different take on this topic. 
+
+How would you feel if you didn’t change the world and no one remembered you or cared that you were gone? How would you live today, tomorrow and the day after? Do you miss out on life if you don’t do important life changing work?
 
 ## Change is a double-edged sword.
 
@@ -71,4 +73,4 @@ The bottom line is you can lead or follow, be remembered or forgotten. You are a
 
 It’s better to live and accept your part and do it well and let the rest take care of itself. Finding peace and joy in daily living and connecting with who you truly are is the best thing you can do for yourself and the world. 
 
-##### [Photo credit](http://www.flickr.com/photos/hega/3581140828/)
+##### [Photo credit](https://www.flickr.com/photos/helga/3581140828/)

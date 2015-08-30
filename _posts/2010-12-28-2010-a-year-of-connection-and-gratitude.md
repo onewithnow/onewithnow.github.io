@@ -42,7 +42,9 @@ With more exposure, the readership grew slowly but surely and that’s the way I
 
 I was touched by beautiful reactions and feedback. I can’t imagine a better readership than the one I have—supportive, appreciative and genuinely positive. 
 
-**A new design and outlook** I’ve had websites before and a few experiments in blogging but I've never hired a designer. In July of this year, the blog got a new professional design. 
+**A new design and outlook**
+
+I’ve had websites before and a few experiments in blogging but I've never hired a designer. In July of this year, the blog got a new professional design. 
 
 The response was amazingly positive and it reaffirmed the message and purpose of the blog—being at peace and appreciating life in this moment.The feedback motivated me to write with more focus and clarity. 
 
@@ -70,7 +72,7 @@ Bloggers are a wonderful group of people with a strong sense of community. I’v
 
 Bloggers can voice their views in various formats other than comments. They can share an article, link to it, or expand on the idea using their own perspective and platform. Other readers can simply continue to use the contact form or social media. 
 
-**3. The evolution of social media**. The way we share information is changing with the exponential growth of twitter and Facebook. 
+**3. The evolution of social media**. The way we share information is changing with the exponential growth of Twitter and Facebook. 
 
 It will be more advantageous and effective to share articles and views using such mediums. They have a wider reach and continue to grow faster than any individual blog. 
 
@@ -94,7 +96,7 @@ I want to offer something useful and of value to you in exchange for your valuab
 
 **1. Subscribe by email**. It’s free and easy and will deliver fresh content straight to your inbox. 
 
-**2. Following on[ twitter](http://twitter.com/onewithnow).** I enjoy interacting with friends on twitter. It’s fast and efficient. It’s the best way we can exchange ideas. 
+**2. Following on [Twitter](http://twitter.com/onewithnow).** I enjoy interacting with friends on twitter. It’s fast and efficient. It’s the best way we can exchange ideas. 
 
 **3. Liking the [Facebook](http://www.facebook.com/onewithnow) page.**. This is a new page and I would love to get your support. If you’re on Facebook, I’ll see you there. 
 
