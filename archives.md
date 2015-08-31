@@ -8,9 +8,10 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## August 2015
 
+- [What Is the One Thing You’d Be Willing to Do Every Single Day?](/everyday)
 - [The One Essential Productivity Skill We All Need to Master](/prioritize)
 - [What Do You Really Want to Be Good At?](/really-good)
-- [5 Success Lessons from Famous People] (/famous-success)
+- [5 Success Lessons from Famous People](/famous-success)
 
 ## July 2015
 - [The Power and Peace of Making a Decision] (/decide)
