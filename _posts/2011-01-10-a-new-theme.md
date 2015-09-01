@@ -16,7 +16,9 @@ I don’t know about you. But over the years, I've come to the conclusion that r
 
 ## An alternative approach: a theme
 
-In 2010, inspired by [Stephanie Quilao](http://twitter.com/stephaniequilao), I decided to go with a theme. I stopped trying to preempt the year with all sorts of goals and lists. A theme is a general guideline with a focus on the larger picture. It serves as: 
+In 2010, inspired by [Stephanie Quilao](http://twitter.com/stephaniequilao), I decided to go with a theme. I stopped trying to preempt the year with all sorts of goals and lists. 
+
+A theme is a general guideline with a focus on the larger picture. It serves as: 
 
 **1. A reminder**. Your theme can come in handy in reminding you when you’re stuck or indecisive. You choose the action that is in alignment with your theme and desires. 
 
@@ -56,7 +58,7 @@ And please remember: keep it simple, and meaningful to you. Make it as personal 
 
 The answer was simple: get going and start moving forward. So my theme for 2010 was: _get on with it._ 
 
-**Less is more**. After reflecting on 2010 and looking ahead, I felt 2011 will be a year of simplifying and doing less. So my theme is going to be:_ less is more_. This is how it would work: 
+**Less is more**. After reflecting on 2010 and looking ahead, I felt 2011 will be a year of simplifying and doing less. So my theme is going to be: _less is more_. This is how it would work: 
 
 _Do less work but with focus and achieve more meaningful results_. I will attempt to find the most effective way to do something with the least amount of effort and stick to it. My biggest motivation is that I love laziness and doing less. 
 
