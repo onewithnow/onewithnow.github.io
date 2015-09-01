@@ -26,6 +26,20 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## February 2011
+
+- [How to Let Go of Expectations and Opinions of Others](/let-go-of-expectations/)
+- [True Power](/true-power/)
+- [What’s Love Got to Do With It … Everything](/what-is-love/)
+- [The ABCs of Doing Your Own Thing](/doing-your-own-thing/)
+
+## January 2011
+
+- [A Simple Guide to Empty Your Mind](/empty-mind/)
+- [Taking Time to Notice What You Like](/notice/)
+- [Passion - The Path of Least Resistance](/passion/)
+- [Why and How to Create a New Year’s Theme and Make It Stick](/a-new-theme/)
+
 ## December 2010
 
 - [2010: a Year of Connection and Gratitude](/2010-a-year-of-connection-and-gratitude/)
