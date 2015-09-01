@@ -18,7 +18,7 @@ Your mind is a tool that you can control—if you choose to. It can be an asset 
 
 An untamed mind lives on feeding the same thoughts and generating the same experiences.  A typical cycle is something like this. 
 
-![Thought cycle](/images/cycle.png)
+<center>![Thought cycle](/images/cycle.png)</center>
 
 You may ask, what’s wrong with this cycle. There is nothing wrong with it if you’re feeling good and experiencing what brings you joy. 
 
@@ -30,11 +30,11 @@ The mind tends to dwell more on the negative than positive.
 
 To empty your mind is to release what’s taking precious space in your mind and heart that’s not serving you.
 
-![Breaking the cycle](/images/breakcycle.png) 
+<center>![Breaking the cycle](/images/breakcycle.png)</center>
 
 Once you process what’s on your mind, you gain perspective. You act, when needed, from clarity and truth. You no longer feed the loop. 
 
-![action](/images/action.png)
+<center>![action](/images/action.png)</center>
 
 ## An empty mind is:
 
@@ -134,7 +134,7 @@ Reflect on your experiences and thoughts. If you feel you still have things on y
 
 Write about things that you’re grateful for. Try to come up with at least three things you’re grateful for every day. Gratitude is your compass—always pointing to the truth.
 
-You can use a paper journal or a word processor. If you prefer to do it online, check out [Wordpress](https://wordpress.com/), [Blogger](http://www.blogger.com/) (by Google), or [live journal](http://www.livejournal.com/) (simple to use but has lots of ads). All of them are free and offer an option for complete privacy. Another good choice is [Penzu](http://penzu.com/) (the free version has limitations).
+You can use a paper journal or a word processor. If you prefer to do it online, check out [Wordpress](https://wordpress.com/), [Blogger](http://www.blogger.com/) (by Google), or [Live Journal](http://www.livejournal.com/) (simple to use but has lots of ads). All of them are free and offer an option for complete privacy. Another good choice is [Penzu](http://penzu.com/) (the free version has limitations).
 
 I recommend that you keep your journal private. This way your words are a true reflection of your thoughts and feelings. You won’t worry about anyone else reading.
 
