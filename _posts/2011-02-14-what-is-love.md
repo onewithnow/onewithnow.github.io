@@ -12,10 +12,7 @@ Today we celebrate Valentine's Day—the day of love and romance. We express our
 
 More than a quarter of a century ago, Tina Turner sang 
 
-> What’s love got to do with it 
-	What's love but a second hand emotion 
-	Who needs a heart
-	When a heart can be broken
+> What’s love got to do with it? What's love but a second hand emotion? Who needs a heart, when a heart can be broken?
 
 What is love? Can we define it? Quantify it? Is there a right or wrong type of love? 
 
