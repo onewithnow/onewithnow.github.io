@@ -14,6 +14,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [5 Success Lessons from Famous People](/famous-success)
 
 ## July 2015
+
 - [The Power and Peace of Making a Decision] (/decide)
 - [Choosing This Moment] (/choosing-this-moment)
 - [Stuff and the Promise of Happiness] (/stuff)
@@ -38,7 +39,6 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Life, Birthdays and Special Moments](/life-birthdays-and-special-moments/)
 - [What’s Normal?](/whats-normal/)
 - [The Top 3 Reasons We Succeed or Not in Sustaining Change](/the-top-3-reasons-we-succeed-or-not-in-sustaining-change/)
-
 - [What If This Was Your Last Day](/what-if-this-was-your-last-day/)
 
 ## April 2011

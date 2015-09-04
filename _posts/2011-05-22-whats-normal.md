@@ -1,6 +1,7 @@
 ---
 layout: post
-title: What’s Normal?author: Manal Ghosain
+title: What’s Normal?
+author: Manal Ghosain
 categories:
 tags:
 ---
