@@ -78,7 +78,7 @@ Stick to your intention and don’t veer away from it. If you realize you want t
 
 You can also check the websites of your favorite museums for a view of upcoming galleries and collections. One of my favorites is [The National Gallery](http://www.nationalgallery.org.uk/paintings/) online paintings. You can explore by artist or century.  Do a [Google search for collections](http://www.google.com/#sclient=psy&hl=en&q=art+museum+online+collection&aq=1m&aqi=g1g-m1g-b2g-o1&aql=&oq=&pbx=1&bav=on.2,or.&fp=89e96c95c947f3f0) and bookmark the museums you want to explore. 
 
-**6\ Online quotes**. A great way to spend a few minutes is to check the timeless wisdom of the ages. Here are a few sites: [Think exist](http://www.nationalgallery.org.uk/paintings/), [The Quotations Page](http://quotationspage.com/), [Brainy Quote](http://www.brainyquote.com/), [Quoteland](http://www.quoteland.com/), [Quotes Collection](http://www.quoteland.com/). 
+**6. Online quotes**. A great way to spend a few minutes is to check the timeless wisdom of the ages. Here are a few sites: [Think exist](http://www.nationalgallery.org.uk/paintings/), [The Quotations Page](http://quotationspage.com/), [Brainy Quote](http://www.brainyquote.com/), [Quoteland](http://www.quoteland.com/), [Quotes Collection](http://www.quoteland.com/). 
 
 **7. Online books**. Read a few pages for inspiration from the plethora of books available online. [Project Gutenberg](http://www.gutenberg.org/), [Google books](http://books.google.com/), and online libraries offer a great selection. 
 

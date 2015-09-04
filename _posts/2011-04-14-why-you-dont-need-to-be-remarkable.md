@@ -38,8 +38,9 @@ The above examples of doing amazing things can have a positive impact on others 
 
 On the other hand, hammering the same message that your life is boring and you’re a coward for not stepping up your game can have the opposite effect. Instead of feeling empowered, you feel doubtful of your ability to offer something of value to the world, which, unfortunately, can lead to feelings of unworthiness. 
 
-> When you read messages urging you to do something amazing in order to be remarkable, stop and think: does the message inspire and motivate you? If it does, more power to you. Go do something out of your comfort zone, share and celebrate your journey. 
-> But if the message makes you feel uneasy and you start dwelling in self-doubt, questioning your worth and abilities, think again, and keep reading.
+When you read messages urging you to do something amazing in order to be remarkable, stop and think: does the message inspire and motivate you? If it does, more power to you. Go do something out of your comfort zone, share and celebrate your journey. 
+
+But if the message makes you feel uneasy and you start dwelling in self-doubt, questioning your worth and abilities, think again, and keep reading.
 
 ## A second look at the ordinary
 
@@ -95,7 +96,9 @@ Look within and stop trying to be outstanding and remarkable—just be. It’s i
 
 Being alive and experiencing every moment—at the most basic level of existence is all you need. When you awaken to this not so ordinary truth, you’ll see the remarkable in you and everyone and everything around you. And that’s when you join life in the most authentic creative dance.
 
-Next time you feel bored, or your life is unremarkable, take a few breaths, have a drink of water, or just take a nap. :) And remember life on planet earth is an extreme sport—by being here, you're on the biggest adventure of creation. I’ll leave you with these wise words. 
+Next time you feel bored, or your life is unremarkable, take a few breaths, have a drink of water, or just take a nap. :) And remember life on planet earth is an extreme sport—by being here, you're on the biggest adventure of creation. 
+
+I’ll leave you with these wise words. 
 
 > “Nothing is so commonplace as to wish to be remarkable.”~Oliver Wendell Holmes
 
