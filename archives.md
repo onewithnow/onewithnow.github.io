@@ -28,17 +28,18 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## June 2011
 
-Awakening to Moments
-Meditating on Anxiety
-Taking a Digital Sabbatical: Why and How
-3 Simple Tools to Optimize Online Reading
+- [Awakening to Moments](/awakening-to-moments/)
+- [Meditating on Anxiety](/meditating-on-anxiety/)
+- [Taking a Digital Sabbatical: Why and How](/taking-a-digital-sabbatical-why-and-how/)
+- [3 Simple Tools to Optimize Online Reading](/3-simple-tools-to-optimize-online-reading/)
 
 ## May 2011
 
-Life, Birthdays and Special Moments
-What’s Normal?
-The Top 3 Reasons We Succeed or Not in Sustaining Change
-What If This Was Your Last Day
+- [Life, Birthdays and Special Moments](/life-birthdays-and-special-moments/)
+- [What’s Normal?](/whats-normal/)
+- [The Top 3 Reasons We Succeed or Not in Sustaining Change](/the-top-3-reasons-we-succeed-or-not-in-sustaining-change/)
+
+- [What If This Was Your Last Day](/what-if-this-was-your-last-day/)
 
 ## April 2011
 
