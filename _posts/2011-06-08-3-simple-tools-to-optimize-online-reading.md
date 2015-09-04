@@ -22,7 +22,7 @@ You might be familiar with some (if not all) of these tools. If you’ve been us
 
  The above is a screen capture of my browser showing the [bookmarklets](http://en.wikipedia.org/wiki/Bookmarklet) (links to apps) I currently use. 
 
-**[Readable**](http://readable.tastefulwords.com/) 
+**[Readable](http://readable.tastefulwords.com/)**
 
 This simple app removes the clutter/ads from an article and allows for distraction free reading. You can customize the font, color and layout and then drag the bookmarklet to your browser. 
 
@@ -32,7 +32,7 @@ You can also use it with Google RSS reader to transform an article to the format
 
 Using this app will help you focus on your reading. The added space and customization will reduce eye strain and possibly increase your speed. 
 
-**[Instapaper – Read Later**](http://www.instapaper.com/) 
+**[Instapaper – Read Later](http://www.instapaper.com/)**
 
 This is one of the most useful tools for reading. Instead of jumping from one article to another—especially when you’re checking links on twitter or facebook, you can click on the **Read Later** bookmarklet and save the article for reading at a later time. 
 
@@ -40,7 +40,7 @@ Reading is more pleasurable with Instapaper. You access your account to read—a
 
 Instapaper is easy to use and has useful features. You can read the article in simple text format without having to visit the original publisher. You can also archive your articles or create a publication to read on the go. 
 
-**[Print Friendly**](http://www.printfriendly.com/) 
+**[Print Friendly](http://www.printfriendly.com/)** 
 
 Print Friendly cleans up articles and formats them for printing. It gives you the option of printing on paper or creating a PDF file. I love the PDF feature. 
 

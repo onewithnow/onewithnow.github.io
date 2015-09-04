@@ -52,7 +52,9 @@ At one point, it was normal to think the earth was flat. At another, it was norm
 
 Normal makes us stop thinking and questioning and start following blindly. It is why societies stagnate. It takes courageous souls to think, and challenge the norm and ignite the spark of change. 
 
-**Normal is unrealistic.** To try to mold more than 6 billion people on the face of this planet into predefined standards is impossible. 
+**Normal is unrealistic.** 
+
+To try to mold more than 6 billion people on the face of this planet into predefined standards is impossible. 
 
 No one can claim to fully understand human behavior or create a standard for it. None of us came with a user manual. 
 
