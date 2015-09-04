@@ -50,7 +50,7 @@ If you use the above tools for reading, consider the following two apps for orga
 
 ## 2 organizing tools
 
-**[Evernote**](http://evernote.com/) 
+**[Evernote](http://evernote.com/)** 
 
 It’s a very popular note-taking tool. As you read and find something you want to use or refer to again, highlight the section and click on the **Clip to Evernote** bookmarklet. The application will save your notes in your Evernote account. 
 
@@ -58,7 +58,7 @@ Evernote is a great tool to capture text and images. I personally use it for blo
 
 You can use the app on your computer, online and on your mobile device. Your info synchronizes seamlessly. 
 
-**[Delicious**](http://www.delicious.com/)
+**[Delicious](http://www.delicious.com/)**
 
 I use delicious for bookmarking pages that I want to visit again. It’s very simple to use. There were rumors of it shutting down. This has not materialized yet. In case the service gets discontinued, you can always export your bookmarks to another service. 
 
@@ -100,6 +100,6 @@ The fewer tools you have the better. If you don’t need a bookmarking site, don
 
 _Reading is one of the simplest and most pleasurable experiences in life. To enjoy your reading, make it personal. Try the tools above; use what works for you and let the rest go._ 
 
-Happy reading! _
+Happy reading!
 
 ##### [Photo credit](http://www.flickr.com/photos/spree2010/4930764896/)
