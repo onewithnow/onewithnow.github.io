@@ -26,6 +26,34 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## June 2011
+
+Awakening to Moments
+Meditating on Anxiety
+Taking a Digital Sabbatical: Why and How
+3 Simple Tools to Optimize Online Reading
+
+## May 2011
+
+Life, Birthdays and Special Moments
+What’s Normal?
+The Top 3 Reasons We Succeed or Not in Sustaining Change
+What If This Was Your Last Day
+
+## April 2011
+
+- [In Praise of Simplicity in Life and the Universe](/in-praise-of-simplicity-in-life-and-the-universe/)
+- [The Next Thing: A Simple Approach to Action and Getting Things Done](/the-next-thing-getting-things-done/)
+- [Why You Don’t Need to Be Remarkable](/why-you-dont-need-to-be-remarkable/)
+- [Silence: A Welcomed Guest](/silence/)
+
+## March 2011
+
+- [I (You) Suck, Therefore …](/i-you-suck/)
+- [The Truth About Stuff and the Peace of Less](/peace-of-less/)
+- [3 Ways to Cultivate More Peace in Your Life](/3-ways-to-more-peace/)
+- [A Small Dose of Digital Inspiration](/dose-of-digital-inspiration/)
+
 ## February 2011
 
 - [How to Let Go of Expectations and Opinions of Others](/let-go-of-expectations/)

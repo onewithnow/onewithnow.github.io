@@ -85,5 +85,3 @@ When you let go of your opinions and expectations of others, you free yourself f
 You interact genuinely, without hidden motives or disappointment. You become better equipped at embracing what others have to offer. Your newfound freedom creates opportunities for you to be of service to others in more intuitive and authentic ways. 
 
 To let go is to lovingly surrender to what is and be at peace with it. 
-
-##### [Photo credit](http://www.flickr.com/photos/uaeincredible/55917472/)

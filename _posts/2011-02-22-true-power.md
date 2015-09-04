@@ -14,7 +14,7 @@ Not in my wildest dreams, could I have imagined how fast things would change.
 
 This is by no means a political commentary on what transpired, but a reflection on the collective human narrative and experience.
 
-One of the most famous poems we had to memorize as children in school was, funny enough, by the Tunisian Poet [Abu Al-Qasim Al-Shabi](http://www.echebbi.com/index.php?p=kasaed). He wrote these words more than 70 years ago. Here is a [translated excerpt](http://arablit.wordpress.com/2011/01/16/two-translations-of-abu-al-qasim-al-shabis-if-the-people-wanted-life-one-day/). 
+One of the most famous poems we had to memorize as children in school was, funny enough, by the Tunisian Poet Abu Al-Qasim Al-Shabi. He wrote these words more than 70 years ago. Here is a [translated excerpt](http://arablit.wordpress.com/2011/01/16/two-translations-of-abu-al-qasim-al-shabis-if-the-people-wanted-life-one-day/). 
 
 > “If, one day, a people desires to live, then fate will answer their call. 
 	And their night will then begin to fade, and their chains break and fall. 
