@@ -17,8 +17,8 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 - [The Power and Peace of Making a Decision] (/decide)
 - [Choosing This Moment] (/choosing-this-moment)
-- [Stuff and the Promise of Happiness] (/stuff)
-- [How to Find Your Inner Muse (Inspiration)] (/muse)
+- [Stuff and the Promise of Happiness](/stuff)
+- [How to Find Your Inner Muse (Inspiration)](/muse)
 
 ## June 2015
 
@@ -26,6 +26,21 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Two Questions to Cope with Obsessive Worry](/worry)
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
+
+
+## August 2011
+
+- [Do You Know How Beautiful You Are?](/do-you-know-how-beautiful-you-are/)
+- [How to Live By the Boomerang Principle](/how-to-live-by-the-boomerang-principle/)
+- [Misunderstood? How to Let Go of the Need to Explain Yourself](/misunderstood-how-to-let-go-of-the-need-to-explain-yourself/)
+- [Digital Sabbatical: Reflections on 31 Days of Being Offline](/digital-sabbatical-reflections-on-31-days-of-being-offline/)
+
+## July 2011
+
+- [Today is Your Day](/today-is-your-day/)
+- [If Only](/if-only/)
+- [A Life Without a Past](/a-life-without-a-past/)
+- [The World of Active Engagement](/the-world-of-active-engagement/)
 
 ## June 2011
 
