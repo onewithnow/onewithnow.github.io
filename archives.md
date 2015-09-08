@@ -4,7 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
-Articles published to date in reverse chronological order (from latest to earliest)
+
+## September 2015
+
+- [Your Feelings, Your Power](/your-feelings-your-power/)
 
 ## August 2015
 
