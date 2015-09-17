@@ -8,7 +8,7 @@ tags:
 
 ![Dreams](/images/dreamer.jpg)
 
-> “We aren’t who we want to be. We are what society demands. We are what our parents choose. We don’t want to disappoint anyone; we have a great need to be loved. So we smother the best in us. Gradually, the light of our dreams turns into the monster of our nightmares. They become things not done, possibilities not lived” ~Adultery, by Paulo Coelho
+<blockquote>“We aren’t who we want to be. We are what society demands. We are what our parents choose. We don’t want to disappoint anyone; we have a great need to be loved. So we smother the best in us. Gradually, the light of our dreams turns into the monster of our nightmares. They become things not done, possibilities not lived” ~Adultery, by Paulo Coelho</blockquote>
 
 What do we normally do from the time we get up in the morning, till we go back to bed? Is it what we truly desire, or is it just another day of doing what we have to do?
 
@@ -90,6 +90,6 @@ You might find the following thoughts helpful as you contemplate the questions, 
 
 **Assume no one is watching, or judging, you**. When you imagine your ideal day in vivid detail, do your best not to consider what others would think, or how they’d react to your choices. It’s really hard to ignore what society and others expect from us. But it’s crucial, when we’re trying to align our choices and actions with our truth.
 
-> We all know perfection is not attainable. But it can provide valuable insight into what we want to do and how we want to live. And in that space of truthful alignment we get to experience our life in the best possible way.
+<blockquote>We all know perfection is not attainable. But it can provide valuable insight into what we want to do and how we want to live. And in that space of truthful alignment we get to experience our life in the best possible way.</blockquote>
 
 To your truth … to your dreams … to your life!
