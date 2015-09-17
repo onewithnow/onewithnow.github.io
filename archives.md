@@ -7,6 +7,7 @@ permalink: /archives/
 
 ## September 2015
 
+- [The Perfect Day: Awakening the Dreamer Within](/perfect-day)
 - [Your Feelings, Your Power](/your-feelings-your-power/)
 
 ## August 2015
