@@ -31,13 +31,12 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
-
 ## September 2011
 
-- [The Power of Words](/power-of-words/)
-- [The Simple Math of Achievement](/the-simple-math-of-achievment/)
-- [The Paradox of Blame](/paradox-of-blame/)
 - [Awareness: Awakening to the Witness Within](/awareness-awakening-to-the-witness-within/)
+- [The Paradox of Blame](/paradox-of-blame/)
+- [The Simple Math of Achievement](/the-simple-math-of-achievment/)
+- [The Power of Words](/power-of-words/)
 
 ## August 2011
 
