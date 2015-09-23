@@ -7,6 +7,7 @@ permalink: /archives/
 
 ## September 2015
 
+- [How to Finish What You Started](/finish-what-you-started)
 - [The Perfect Day: Awakening the Dreamer Within](/perfect-day)
 - [Your Feelings, Your Power](/your-feelings-your-power/)
 
