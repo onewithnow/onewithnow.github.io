@@ -35,6 +35,7 @@ permalink: /archives/
 
 ## October 2011
 
+- [The Heart of What Matters](/the-heart-of-what-matters/)
 - [Allowing Life to Unfold](/allowing-life-to-unfold/)
 - [The One Idea](/the-one-idea/)
 
