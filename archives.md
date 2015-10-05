@@ -33,6 +33,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## December 2011
+
+- [Looking Back to Move Forward](/looking-back-to-move-forward/)
+- [Showing Up for Your Own Party](/show-up-for-your-party)
+- [All Things Must End: The Gift of Closure](/end-closure/)
+- [Rediscover the Joy of Reading with eBooks and What You Need to Start](/reading-ebooks-how-to-start/)
+
 ## November 2011
 
 - [The Gratitude Journey Continues](/the-gratitude-journey-continues/)
