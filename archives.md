@@ -35,7 +35,8 @@ permalink: /archives/
 
 ## October 2011
 
--[The One Idea](/the-one-idea/)
+- [Allowing Life to Unfold](/allowing-life-to-unfold/)
+- [The One Idea](/the-one-idea/)
 
 ## September 2011
 
