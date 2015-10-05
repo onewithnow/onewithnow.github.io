@@ -33,6 +33,10 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## October 2011
+
+-[The One Idea](/the-one-idea/)
+
 ## September 2011
 
 - [Awareness: Awakening to the Witness Within](/awareness-awakening-to-the-witness-within/)
