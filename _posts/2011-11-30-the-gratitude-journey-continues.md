@@ -116,16 +116,16 @@ Write about what you got done today. Did you make it to work or a meeting on tim
 
 There is no small success.  You don’t have to be detailed; just create a simple list. Try to list at least 5 to 10 things per day. For example:
 
-		1. Woke up at 6
-		2. Meditated
-		3. Showered
-		4. Took the dog for a walk
-    	5. Had lunch with a friend
-    	6. Wrote in journal
-    7. Published blog post
-    8. Paid bills
-    9. Completed ABC report
-     10. Worked out for 10 minutes
+1- Woke up at 6
+2- Meditated
+3- Showered
+4- Took the dog for a walk
+5- Had lunch with a friend
+6- Wrote in journal
+7- Published blog post
+8- Paid bills
+9- Completed ABC report
+10- Worked out for 10 minutes
 
 **II. Things you’re grateful for**
 

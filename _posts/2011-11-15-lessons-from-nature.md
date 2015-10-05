@@ -45,4 +45,5 @@ We can do the same as the wind starts to blow in our lives. We can move with lif
 The beauty of life lies in its constant graceful and surrendered change.  Let’s join life in its celebration of the season by fully accepting and living our own life as it unfolds in this moment.
 
 > No spring, nor summer beauty hath such grace, 
+
 > As I have seen in one autumnal face. ~John Donne
