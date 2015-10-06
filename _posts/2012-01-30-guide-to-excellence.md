@@ -54,7 +54,9 @@ You get to define your own [best](/doing-the-best-you-can/) and work with it.
 
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit. ~Aristotle
 
-Habits are born from doing the same thing over and over. If you do your best every time you do something, you cannot fail. The action becomes part of who you are. The biggest challenge is to keep going when you feel discouraged and you doubt your abilities. If you keep going, you will get better and better, till you become the best you can be—you master the action. 
+Habits are born from doing the same thing over and over. If you do your best every time you do something, you cannot fail. The action becomes part of who you are. 
+
+The biggest challenge is to keep going when you feel discouraged and you doubt your abilities. If you keep going, you will get better and better, till you become the best you can be—you master the action. 
 
 _It is in this step that you transform your talent into a valuable skill that is highly rewarded and appreciated._ 
 
