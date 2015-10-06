@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Guide to Excellence: From Choice to Action
+title: A Guide to Excellence&#58; From Choice to Action
 author: Manal Ghosain
 categories:
 tags:
