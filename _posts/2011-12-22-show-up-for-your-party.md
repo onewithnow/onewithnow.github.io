@@ -117,7 +117,7 @@ Before I end this article, here are a couple of books I highly recommend for any
 If you want to motivate yourself and face your challenges, read the following books. 
 
   * [War of Art](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/ref=sr_1_1?ie=UTF8&qid=1324508481&sr=8-1)
-    *[Do the Work](
+*[Do the Work](http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=pd_sim_b_1)
 
 Steve Pressfield dissects resistance and gives you enough ammunition to move past it so you can show up to do your work.
 

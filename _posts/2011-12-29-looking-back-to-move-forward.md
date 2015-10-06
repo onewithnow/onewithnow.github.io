@@ -20,7 +20,7 @@ I’m going to share with you what transpired during the year and what it means 
 
 ## Looking back
 
-**What I [promised](/2010-a-year-of-connection-and-gratitude/)at the end of last year was the following:**
+**What I [promised](/2010-a-year-of-connection-and-gratitude/) at the end of last year was the following:**
 
 1. Content. I will focus on content that I hope can inspire you in the smallest of ways to accept and appreciate your experience and truth in this moment. 
 2. Free report or eBook. This is the least I can do to say thank you for your continued support. 
@@ -66,7 +66,7 @@ At the beginning of this year I wrote about themes and how they can guide you du
 
 The main area where I fell short personally is music. This is something I need to [show up](/show-up-for-your-party/) for in the upcoming year.
 
- _Hope this year was kind to you and your loved ones. Please take the time to reflect on your journey this year and how you have grown from it. _
+*Hope this year was kind to you and your loved ones. Please take the time to reflect on your journey this year and how you have grown from it.*
 
 ## Looking forward
 

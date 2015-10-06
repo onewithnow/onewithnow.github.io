@@ -41,6 +41,7 @@ The design of the book is not as important as the text in this format. The focus
 The downside is that certain tables and images may not come out very clear. Images formatted for digital reading can be enlarged for viewing then closed to continue reading.
 
 **3. EPUB** 
+
 This is a newer technology than mobipocket. It is becoming more and more popular. Apple iBooks, Kobo, Sony, Nook and Google are among the adopters of EPUB format. The apps developed by each company have different features though. 
 
 Like the kindle, the book’s layout focuses more on text and ease of reading vs. visual design. 
@@ -73,7 +74,7 @@ For example, the kindle app works differently on an Android device than on Apple
 
 Here are the apps I use. 
 
-**[Amazon kindle**](http://www.amazon.com/kindle) 
+**[Amazon kindle](http://www.amazon.com/kindle)** 
 
 I’m not a big fan of Amazon’s DRM control, but this is overshadowed by its competitive advantage. 
 
@@ -81,7 +82,7 @@ Amazon started as an online bookstore. It offers low prices and probably the lar
 
 And as mentioned above, the kindle app is available in a lot of formats to support using different devices. Amazon also introduced the [cloud reader](https://read.amazon.com/about) which allows you to access your library on a web browser instead of an app. This gives you one more way to read your books. 
 
-**[Kobo**](http://www.kobo.com/) 
+**[Kobo](http://www.kobo.com/)**
 
 If you want to go the ePub route, I think Kobo can be a good choice. Their pricing is reasonable (slightly higher than Amazon sometimes) and they offer a wide range of books. 
 
@@ -91,7 +92,7 @@ Kobo also offers a lot of free public domain books which you can download to you
 
 I use the app on the iPad and iPhone for reading free books from Apple or DRM free books in ePub format. New books are more expensive than other providers. Unlike kindle and Kobo, the books can only be read on Apple mobile devices. 
 
-**[EPUB Reader**](http://www.epubread.com/en/) 
+**[EPUB Reader](http://www.epubread.com/en/)**
 
 This is a Firefox extension for reading ePub books. It’s a great way to read your books on your computer. You can add bookmarks, change the font size (it can be really large) but you can’t add notes or highlight text. 
 
@@ -99,9 +100,9 @@ This is a Firefox extension for reading ePub books. It’s a great way to read y
 
 I have not personally used those apps but thought they’re worth mentioning. 
 
-**[Nook**](http://www.barnesandnoble.com/NOOK): It looks very comparable to Kobo. 
+**[Nook](http://www.barnesandnoble.com/NOOK)**: It looks very comparable to Kobo. 
 
-**[Sony Reader**](http://ebookstore.sony.com/): Sony offers a large selection.  The app doesn’t work on all platforms. It works on PCs and Macs and Android devices.
+**[Sony Reader](http://ebookstore.sony.com/)**: Sony offers a large selection.  The app doesn’t work on all platforms. It works on PCs and Macs and Android devices.
 
 [**Google ebookstore**](http://books.google.com/): Google now offers books at reasonable prices. It has an app that works with Android and Apple mobile devices but not your computer. You can use a web browser to read on your computer.
 
