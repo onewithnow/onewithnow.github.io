@@ -33,6 +33,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## January 2012
+
+- [A Guide to Excellence: From Choice to Action](/guide-to-excellence/)
+- [The Good Life Code](/the-good-life-code/)
+- [A Holistic Approach to Facing Your Fears](/fear)
+- [An Intimate Conversation with Yourself](/an-intimate-conversation-with-yourself/)
+
 ## December 2011
 
 - [Looking Back to Move Forward](/looking-back-to-move-forward/)
