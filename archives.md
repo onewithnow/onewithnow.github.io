@@ -35,7 +35,7 @@ permalink: /archives/
 
 ## February 2012
 
-- [The Possibility of Now](/onewithnow.com/possibility-of-now/)
+- [The Possibility of Now](/possibility-of-now/)
 - [When It Comes to Pursuing Your Passion, What are You Willing to Give Up?](/what-are-you-willing-to-give-up/)
 - [Overcoming the Blah: How to Move Forward When You Don’t Feel Like It](/how-to-move-forward/)
 - [The Blah Diary: Contemplation of Uninspired Moments](/the-blah-diary/)

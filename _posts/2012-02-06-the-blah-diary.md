@@ -1,10 +1,10 @@
-—
+---
 layout: post
 title: The Blah Diary&#58; Contemplation of Uninspired Moments
 author: Manal Ghosain
 categories:
 tags:
-—
+---
 
 ![Bored kid](/images/bored.jpg)
 
