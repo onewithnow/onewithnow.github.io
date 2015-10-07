@@ -121,7 +121,8 @@ Resting allows you to wipe the slate clean and energize your mind and body.
 
 Numbing your mind robs of you of time and energy. You don't wipe the slate clean. You add more crap to your psyche which will make you feel worse after. 
 
-Consider these: 
+Consider these:
+
 - Sleep or take a nap
 - Listen to relaxing music
 - Take a warm bath
