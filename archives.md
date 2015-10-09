@@ -5,6 +5,10 @@ permalink: /archives/
 ---
 
 
+## October 2015
+
+- [Quieting the Inner Nag](/nag/)
+
 ## September 2015
 
 - [The Biggest Act of Love](/biggest-act-of-love)
