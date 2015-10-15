@@ -7,6 +7,7 @@ permalink: /archives/
 
 ## October 2015
 
+- [From a Refugee with Love](/refugee)
 - [Quieting the Inner Nag](/nag/)
 
 ## September 2015
