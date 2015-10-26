@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Experience&#58; How Meditation Can Improve Productivity
+title: 5 Ways Meditation Can Improve Productivity
 author: Manal Ghosain
 categories:
 tags:
