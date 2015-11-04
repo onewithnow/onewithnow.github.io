@@ -7,6 +7,7 @@ permalink: /archives/
 
 ## October 2015
 
+- [Priorities Revisited: The Ideal You](/priorities)
 - [5 Ways Meditation Can Improve Productivity](/meditation-improves-productivity)
 - [From a Refugee with Love](/refugee)
 - [Quieting the Inner Nag](/nag/)
