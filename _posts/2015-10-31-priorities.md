@@ -74,9 +74,13 @@ Once you decide on the labels you want to use, give each one a brief description
 My priorities usually revolve around the same things, but in different order. Here is a list of my current priorities, in order of importance.
 
 **1. Family:** Give my undivided attention and do my best to be there for my family.
+
 **2. Wellness:** Be at peace with everyone and everything. Optimize my diet and movement. Keep things simple.
+
 **3. Work:** Have a clear investing strategy, and use it. Simplify financial tasks. Write and share regularly.
+
 **4. Personal:** Learn, read, and simplify home and belongings.
+
 **5. Social & community:** Connect with friends on a regular basis, and continue to be part of the local community.
 
 ## Ideals vs. reality
