@@ -1,6 +1,6 @@
 ---
 layout: post
-title: http://onewithnow.com/effortless-focus/
+title: A Guide to Effortless Focus
 author: Manal Ghosain
 categories:
 tags:
