@@ -40,6 +40,14 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+
+## May 2012
+
+- [Reborn from the inside Out](/reborn/)
+- [The Top 5 Regrets of the Dying and What We Can Learn From Them](/regrets-of-the-dying-and-what-we-can-learn/)
+- [The First Step in Dealing with Overwhelm: Doing Nothing](/deal-with-overwhelm-by-doing-nothing/)
+- [On Self Worth](/self-worth/)
+
 ## April 2012
 
 - [Fading From Virtual Memory](/fading-from-virtual-memory/)
