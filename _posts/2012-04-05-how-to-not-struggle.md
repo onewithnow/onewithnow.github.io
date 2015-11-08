@@ -76,7 +76,9 @@ When you start something new, your mind will kick into resistance mode.
 
 Remind yourself of everything you learned in the past and how it became familiar. You moved through fear and ventured out slowly—one small step at a time. 
 
-**2. Lack of clarity** If you don’t have a clear desire, you will struggle with overwhelm and confusion. 
+**2. Lack of clarity** 
+
+If you don’t have a clear desire, you will struggle with overwhelm and confusion. 
 
 **The solution:** You need to do one of the following: 
 
