@@ -83,6 +83,7 @@ One thing you will notice: You've been through a lot and have accomplished more 
 The process of self reflection is intended to give you insight about the inner workings of your mind and the ongoing dialogue. If you start judging yourself for your views of yourself and others, stop. 
 
 _Remember you are the interviewer. Step outside of yourself._ 
+
 Allow the darkness of past mistakes and regrets to fade into the light of your awareness. 
 
 **Make it sacred** 
