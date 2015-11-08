@@ -40,12 +40,19 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## April 2012
+
+- [Fading From Virtual Memory](/fading-from-virtual-memory/)
+- [How to Make Repetition More Fun and Less Boring](/make-repetition-more-fun/)
+- [A Guide to Effortless Focus](/effortless-focus/)
+- [How to Not Struggle](/how-to-not-struggle/)
+
 ## March 2012
 
 - [Stillness in Motion](/stillness-in-motion/)
 - [Mastering Fate](/mastering-fate/)
 - [When Things Get Personal](/when-things-get-personal/)
-- [Enigma vs. Identity](/enigma-vs-identity)
+- [Enigma vs. Identity](/enigma-vs-identity/)
 
 ## February 2012
 
