@@ -20,15 +20,15 @@ Any movement will do. All you have to do is to get up and start—moving only fo
 
 ## Here are a few ideas.
 
-  * Go for a short walk and get lost in walking and your thoughts.
-  * Go up and down the stairs a few times and feel your breath as your heart starts to beat faster.
-  * Wash a few dishes and feel the water. Fold the laundry, vacuum one small room or half a large room. Basically do 5 minutes of house chores.
+* Go for a short walk and get lost in walking and your thoughts.
+* Go up and down the stairs a few times and feel your breath as your heart starts to beat faster.
+* Wash a few dishes and feel the water. Fold the laundry, vacuum one small room or half a large room. Basically do 5 minutes of house chores.
 
 If you’re stuck in an office or indoors do one of the following: 
   
 * March in place and move your arms above your head then to your sides.
-  * Throw a few punches in the air with your feet shoulder width apart.
-  * Rotate your arms and shoulders.
+* Throw a few punches in the air with your feet shoulder width apart.
+* Rotate your arms and shoulders.
 
 If you have a stationary bike, a treadmill, a stepper just do 5 minutes in intervals—one minute slow and the next fast and repeat. 
 
@@ -52,27 +52,29 @@ There are many health benefits to physical activity—burning excess calories an
 
 You also gain tremendous mental and emotional benefits from moving—you feel more alert and more at peace. Consider these added benefits when you move. 
 
-**1\. Stimulate the brain.** 
+**1. Stimulate the brain.** 
 
 When you get up and move, you give your mind a jolt. You break the cycle and give it something new. Your brain thrives on novelty. 
 
 This awakens and relaxes you at the same time. 
 
-**2\. Release stuck thoughts and emotions.** Physical movement forces your mind to break the cycle of thought, even if it’s momentary. This will strip negative thoughts from their hold on your mind. 
+**2. Release stuck thoughts and emotions.** 
+
+Physical movement forces your mind to break the cycle of thought, even if it’s momentary. This will strip negative thoughts from their hold on your mind. 
 
 Your mind will start paying attention to what you’re doing instead of dwelling in hypothetical negativity. 
 
-**3\. Refocus on this moment.** 
+**3. Refocus on this moment.** 
 
 This is a result of shifting focus to the action at hand as mentioned above. 
 
 Depending on your level of fitness, moving might not be very comfortable in the beginning. No matter how unpleasant it feels, you will shift your focus from whatever was nagging at you into the activity you’re doing. Sometimes that’s all you need to step out of a negative thought pattern.
 
-**4\. Inspire different ideas and action.** 
+**4. Inspire different ideas and action.** 
 
 Clarity breeds inspiration: as you feel better and clear the crud of stuck thoughts you may feel inspired to do different things. You may have the solution to a problem you’ve been pondering for a while. 
 
-**5\. Tune in internally.** 
+**5. Tune in internally.** 
 
 Physical action leads to the mind chasing the body’s movement. This gets you to check in with your body and how it’s actually feeling, instead of the imagined struggle the mind creates when you’re sitting at your desk. 
 
@@ -80,17 +82,17 @@ Physical action leads to the mind chasing the body’s movement. This gets you t
 
 To reap the benefits of moving, you need to make it part of your lifestyle and not just an occasional thing you do when you struggle. In order to do that, I highly encourage you to follow these simple suggestions. 
 
-**1. Do it no matter what. ** 
+**1. Do it no matter what.** 
 
 It may sound counter intuitive to get up and do something physical instead of getting things done. Make a decision to get up no matter what. 
 
 This will force your mind to take a break and step out of its repetitive process of stale self-defeating thoughts and worries. 
 
-**2. Do it in short bursts. ** 
+**2. Do it in short bursts.** 
 
 Don’t get overly ambitious and move for a longer time. This will work once or twice but you won’t be able to sustain it. I’ve found it’s better to do 5 minutes every hour than to just do 15 or 20 minutes at lunch break. Five minutes is easier to sustain than 15. 
 
-**3. Stick to your time. ** 
+**3. Stick to your time.** 
 
 Do 5 or 6 minutes at a time and no more. Work or sit for 50 minutes and break for 5, then get some water and repeat—50 minutes of work/sitting, 5 minutes for movement and 5 minutes preparing for the next 50 minute session. 
 
@@ -98,7 +100,9 @@ I’m only recommending 50 minutes arbitrarily. You can choose a shorter or long
 
 Don’t extend your movement or work time as tempting as it may be. The more you stick to predefined intervals, the easier you turn them into a habit. 
 
-**4. Keep it light** Don’t overdo it. The whole point is to do fun short movements that make you feel better but don’t take a lot of time. 
+**4. Keep it light.** 
+
+Don’t overdo it. The whole point is to do fun short movements that make you feel better but don’t take a lot of time. 
 
 If you do movements that target a certain muscle group (e.g. squats) vary the activity. Do something that targets the upper body (e.g. wall pushups). 
 

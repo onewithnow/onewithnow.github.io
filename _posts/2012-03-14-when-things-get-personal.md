@@ -36,9 +36,9 @@ Someone un-followed you on twitter with another gazillion people because they de
 
 He or she probably never read anything you shared. You were considered part of the collective noise or distraction. 
 
-**Action:** If you’re still interested in the person’s message, then do nothing. Just continue following them. If you were following out of reciprocity it would be a good time to un-follow the person. I did both with different people. With social media things happen so fast. 
+**Action:** If you’re still interested in the person’s message, then do nothing. Just continue following them. If you were following out of reciprocity it would be a good time to un-follow the person. I did both with different people. 
 
-Within a few days you won’t really remember most of it. 
+With social media things happen so fast. Within a few days you won’t really remember most of it. 
 
 ## Being blocked on Facebook
 
