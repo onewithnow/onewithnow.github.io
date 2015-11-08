@@ -62,7 +62,9 @@ This also includes limitations from injury, accidents and illness.
 
 The limitation is one point but overcoming it would be under your control and that’s 5 points. 
 
-**Things you can control: 5 points** Things you like (or dislike) about yourself that you can change. For example, being overweight without any medical problems, being a procrastinator, not eating healthy, following your dreams, and so on. 
+**Things you can control: 5 points** 
+
+Things you like (or dislike) about yourself that you can change. For example, being overweight without any medical problems, being a procrastinator, not eating healthy, following your dreams, and so on. 
 
 This also includes character and values, your achievements, failures, and experiences that impacted you. 
 
@@ -160,4 +162,4 @@ As you read these words always remember that you are worthy of all you desire. L
 
 > “Poor is the man who does not know his own intrinsic worth and tends to measure everything by relative value. A man of financial wealth who values himself by his financial net worth is poorer than a poor man who values himself by his intrinsic self worth.” ~Sidney Madwed
 
-##### [Photo credit](http://www.flickr.com/photos/jingaugusto/2167503678/)
+##### [Photo credit](https://www.flickr.com/photos/jingaugusto/2167503678/)

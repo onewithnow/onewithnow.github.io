@@ -92,7 +92,7 @@ The genie list is for all the things that I would like to get done, but if they 
 
 I invite you today to imagine what it would feel like to rub a magic lamp and have a genie do all the work for you. What work would you delegate and what are the things that are yours—and only yours?
 
-_The list of things you want to do is what’s truly in your heart. Breathe, smile and work on that. The rest will take care of itself through you, time or someone else.  And when things get a bit overwhelming have a relaxing do-nothing day and enjoy every minute of it. _ 
+_The list of things you want to do is what’s truly in your heart. Breathe, smile and work on that. The rest will take care of itself through you, time or someone else.  And when things get a bit overwhelming have a relaxing do-nothing day and enjoy every minute of it._ 
 
 
 ##### [Photo credit](http://www.flickr.com/photos/jenny-pics/2801545665/)

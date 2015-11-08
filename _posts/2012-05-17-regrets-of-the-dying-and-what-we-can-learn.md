@@ -48,7 +48,7 @@ When we’re [true to ourselves](/who-are-you-12-questions-to-uncover-your-turth
 
 ## 2. Genuine connections
 
-This means focusing on the relationships that nourish our hearts and souls. Again, I think a handful (or two) of [meaningful connections](/the-wealth-of-friendship/) is all we need. 
+This means focusing on the relationships that nourish our hearts and souls. Again, I think a handful (or two) of [meaningful connections](/friendship/) is all we need. 
 
 The type of connection is different for each person. It can be people from one’s childhood, or from recent encounters and experiences. 
 
@@ -60,7 +60,9 @@ This is where we fall short most of the times. The best practice is to make it a
 
 ## 3. Happiness (contentment) by choice
 
-Another tough one. The first step to a contented life is an authentic way of living, not worrying about what others think. Then comes the feedback/reaction loop. We’re programmed to react to outside influences. It’s very hard to choose to be content when faced with conflict and challenges. But we can do it, because we always [have a choice](/do-you-really-have-to-do-anything/). 
+Another tough one. The first step to a contented life is an authentic way of living, not worrying about what others think. 
+
+Then comes the feedback/reaction loop. We’re programmed to react to outside influences. It’s very hard to choose to be content when faced with conflict and challenges. But we can do it, because we always [have a choice](/do-you-really-have-to-do-anything/). 
 
 We don’t have to get angry, we choose to. We can laugh instead of fuming with anger. 
 
