@@ -138,7 +138,7 @@ Such restrictions created a motivation to develop DRM stripping software, which 
 
 There are [sites](http://wiki.mobileread.com/wiki/E-book_stores) that provide DRM free books which means you can do whatever you want with them. Scroll to the middle of the page on the link for books without DRM.
 
-Instead of buying eBooks, you can borrow them from a [library](/http://wiki.mobileread.com/wiki/EBook_Lending_Libraries). This is something I have not done but intend on trying once I’m done with the books I have.
+Instead of buying eBooks, you can borrow them from a [library](http://wiki.mobileread.com/wiki/EBook_Lending_Libraries). This is something I have not done but intend on trying once I’m done with the books I have.
 
 **Uploading DRM free books to your app**
 
