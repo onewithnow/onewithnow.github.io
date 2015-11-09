@@ -8,7 +8,7 @@ tags:
 
 ![Puppet](/images/puppet.jpg)
 
-In the [previous article](reborn/) we discussed the idea of being reborn internally. 
+In the [previous article](/reborn/) we discussed the idea of being reborn internally. 
 
 There is no rule that dictates we have to think and believe the same things throughout our lives. 
 
@@ -44,13 +44,15 @@ Think of things you can carry easily and the limited window of opportunity you h
 
 These are the things that you will miss and want to keep. Usually they’re very few. The rest we tend to forget once it’s out of sight. 
 
-**Questions to ask** As you eliminate anything, ask yourself: 
+**Questions to ask** 
 
-  * What am I _feeling_ right now?
-  * _Why _do I still hold on to this item? Can I use it right now? Or am I keeping it _just in case_ I might need it later?
-  * Am I keeping this item to_ justify_ making a useless purchase?
-  * What am I _thinking_ about now? Then,
-  * _Write _down your thoughts. It can be as simple as I paid good money for this widget and I’d like to use it someday.
+As you eliminate anything, ask yourself: 
+
+  * What am I feeling right now?
+  * Why do I still hold on to this item? Can I use it right now? Or am I keeping it just in case I might need it later?
+  * Am I keeping this item to justify making a useless purchase?
+  * What am I thinking about now? Then,
+  * Write down your thoughts. It can be as simple as I paid good money for this widget and I’d like to use it someday.
 
 With the above questions in mind, start writing off the obsolete inventory. 
 
