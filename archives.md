@@ -41,6 +41,13 @@ permalink: /archives/
 - [Awakening to Pain](/awakening-to-pain)
 
 
+## July 2012
+
+- [What You Owe Your Loved Ones](/what-you-owe-your-loved-ones/)
+- [Your Sanctuary](/your-sanctuary/)
+- [The Joy and Magic of Movies](/joy-of-movies/)
+- [Simplifying Your Life with this Hybrid Method](/simplify-your-life/)
+
 ## June 2012
 
 - [The Art and Science of Minding Your Own Business](/minding-your-own-business/)
