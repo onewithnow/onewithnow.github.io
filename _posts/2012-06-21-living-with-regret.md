@@ -156,13 +156,15 @@ Instead of beating myself up though, I decided to slowly close the door. Now it�
 
 If you are facing a similar situation consider these steps that I’m currently working on:
 
-- **Slowly cut down** on your interactions (online and in person).
-- **Try not to hang out** in the same areas with common friends.
-- **Set up your environment** in a way that would make it difficult for you to start digging and finding information about this person or organization.
+**Slowly cut down** on your interactions (online and in person).
 
-- - **Remove** old photos, emails, or any other reminders.
-- - **Don’t ask** others about how this person is doing or not doing. It won’t help.
-- - **Distract** yourself with stuff that benefits you. The time and energy you expend on regret and looking for answers can be redirected into something that you always want to do. Start today.
+**Try not to hang out** in the same areas with common friends.
+
+**Set up your environment** in a way that would make it difficult for you to start digging and finding information about this person or organization.
+
+- **Remove** old photos, emails, or any other reminders.
+- **Don’t ask** others about how this person is doing or not doing. It won’t help.
+- **Distract** yourself with stuff that benefits you. The time and energy you expend on regret and looking for answers can be redirected into something that you always want to do. Start today.
 
 Regret is part of life. The more we accept this fact, the better we’re equipped to move forward, instead of being stuck in the past or thinking that we should be super-beings and not have any regrets.
 
