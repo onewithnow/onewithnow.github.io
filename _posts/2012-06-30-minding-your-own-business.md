@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Art and Science of Minding Your Own Business
