@@ -160,9 +160,9 @@ If you are facing a similar situation consider these steps that I’m currently 
 - **Try not to hang out** in the same areas with common friends.
 - **Set up your environment** in a way that would make it difficult for you to start digging and finding information about this person or organization.
 
-	1. **Remove** old photos, emails, or any other reminders.
-	2. **Don’t ask** others about how this person is doing or not doing. It won’t help.
-	3. **Distract** yourself with stuff that benefits you. The time and energy you expend on regret and looking for answers can be redirected into something that you always want to do. Start today.
+- - **Remove** old photos, emails, or any other reminders.
+- - **Don’t ask** others about how this person is doing or not doing. It won’t help.
+- - **Distract** yourself with stuff that benefits you. The time and energy you expend on regret and looking for answers can be redirected into something that you always want to do. Start today.
 
 Regret is part of life. The more we accept this fact, the better we’re equipped to move forward, instead of being stuck in the past or thinking that we should be super-beings and not have any regrets.
 
