@@ -54,7 +54,7 @@ You don't need a lot of tools to be alone. But if you want to do other things in
 
 **Music/mp3 player and headphones.** If you want to lose yourself in music for a while, this is the best time and place to do it. 
 
-**A book or** [**eBook**](/reading-ebooks-how-to-start/)**reader/tablet.** I recommend reading fiction and getting lost in the story. You can read nonfiction if you wish, but keep it light so you have enough time to reflect on what you read without adding more demands on your time. 
+**A book or** [**eBook**](/reading-ebooks-how-to-start/) **reader/tablet.** I recommend reading fiction and getting lost in the story. You can read nonfiction if you wish, but keep it light so you have enough time to reflect on what you read without adding more demands on your time. 
 
 Tablets are versatile. You can read on them, use the music app to listen to your favorite tunes, or use a timer. But they can be distracting. So be mindful and use your tablet for the intended purpose only. 
 

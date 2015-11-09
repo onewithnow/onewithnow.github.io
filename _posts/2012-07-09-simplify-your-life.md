@@ -52,13 +52,13 @@ List the 3 to 5 most important values or [aspects of life](/who-are-you-12-quest
 
 What are you craving in your life right now?
 
-Do you want a meaningful [connection](/regrets-of-the-dying-and-what-we-can-learn/)? 
+Do you want a meaningful [connection](/regrets-of-the-dying-and-what-we-can-learn/)? Do you want more love? 
 
-Do you want more love? Do you want financial freedom? 
+Do you want financial freedom? 
 
-Do you desire a healthy body? D
+Do you desire a healthy body? 
 
-o you value creativity, peace of mind, autonomy … etc.? 
+Do you value creativity, peace of mind, autonomy … etc.? 
 
 Sit with it and think about it. What would bring you more peace and fulfillment? What would your ideal life look like? 
 
@@ -91,6 +91,7 @@ By going through the process you will:
   * Clarify what's important
   * Prioritize the important without stress or worry
   * Eliminate the unnecessary.
+
 Now that you have the answers, start with the shortest-term answer. What would you do if you only had 6 days to live? 
 
 **A personal example** 
