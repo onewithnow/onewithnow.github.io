@@ -40,6 +40,12 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## August 2012
+
+- [How to Not Fear Being Left Behind](/left-behind/)
+- [Want More Peace? Shine Your Kitchen Sink](/shine-your-kitchen-sink/)
+- [The Power of Play](/power-of-play/)
+- [Top Reasons We Don’t Finish: A Guide to Completing Important Projects](/guide-to-completing-important-projects/)
 
 ## July 2012
 
