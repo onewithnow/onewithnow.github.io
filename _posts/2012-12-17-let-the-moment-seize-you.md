@@ -80,6 +80,6 @@ To let the moment seize you is to stop looking for opportunities … to be open 
 
 You are a unique and tasty flavor of life. Let it savor you—moment by moment. 
 
-**P.S. I usually share a theme for the upcoming year. For the past couple of years my themes were **[**less is more**](/a-new-theme/) **and** [**relentless focus**](/looking-back-to-move-forward/). **This year’s theme (and intention) is to let the moment seize me.**
+I usually share a theme for the upcoming year. For the past couple of years my themes were [less is more](/a-new-theme/) and [relentless focus](/looking-back-to-move-forward/). This year’s theme (and intention) is to let the moment seize me.
 
 > The life that is you, in you, through you, and around you is waiting to seize and experience you.
