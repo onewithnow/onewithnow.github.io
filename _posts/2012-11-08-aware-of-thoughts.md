@@ -40,9 +40,11 @@ Thoughts either support you or they don't. Some can be helpful and effective. Ot
 
 Imagine that you have two sidekicks, one sitting on your right shoulder and the other on your left shoulder. They are your thinking sidekicks, guards, assistants, or any other name you’d like to call them.
 
-<right>![Sonic](/images/sonic.png)</right>**The Supporter:** On the right hand side sits a character that’s imaginative, cool, and supportive. My choice is Sonic the hedgehog. He’s feisty and playful. I chose him because he reminds of the fun games I played in the past. 
+<left>![Demon](/images/demo.png)</left><right>![Sonic](/images/sonic.png)</right>
 
-<left>![Demon](/images/demo.png)</left>**The Destroyer:** On the left side sits a gremlin like creature. He’s critical, analytical, and negative. But he’s not really evil. He doesn’t know any better. My chosen character is a demon that nags a lot but is well intended. He wants to support me in his own goofy way. 
+**The Supporter:** On the right hand side sits a character that’s imaginative, cool, and supportive. My choice is Sonic the hedgehog. He’s feisty and playful. I chose him because he reminds of the fun games I played in the past. 
+
+**The Destroyer:** On the left side sits a gremlin like creature. He’s critical, analytical, and negative. But he’s not really evil. He doesn’t know any better. My chosen character is a demon that nags a lot but is well intended. He wants to support me in his own goofy way. 
 
 **Thought receivers:** When a thought comes through, listen and see which side is telling you this. Is it the supporter or the destroyer? Is it helpful, negative, or just nonsense? 
 
