@@ -44,12 +44,14 @@ Below are the steps I took:
 
   1. Filled the sink (two inches below the rim) with hot water and added a quarter of a cup of bleach. Let it sit for an hour.
   2. Emptied the hot water and rinsed the sink well.
-  3. Used a[ non-scratch scrub sponge ](http://www.scotch-brite.com/wps/portal/3M/en_US/Scotch-BriteBrand/Scotch-Brite/Products/Product-Catalog/~/Non-Scratch-Scrub-Sponge?N=5941656&rt=rud)with baking soda (not baking powder) and a few drops of lemon juice to scrub and clean the sink, edges, faucet and around the sink.
+  3. Used a non-scratch scrub sponge with baking soda (not baking powder) and a few drops of lemon juice to scrub and clean the sink, edges, faucet and around the sink.
   4. Used a toothbrush to clean around the edges and the faucet. If there is something stuck, you can use a butter knife, but be careful not to scratch the surface.
   5. Rinsed the area. Then dried it with a towel.
   6. Used a microfiber towel to give it a shine. You can use window cleaner to shine your sink, if it helps.
 
-The steps above were meant to clear the old buildup and give you a clean slate. They will take a total of one hour, max. The trick from this moment is to keep your sink clean on a daily basis. This is where you sustain feeling better. 
+The steps above were meant to clear the old buildup and give you a clean slate. They will take a total of one hour, max. 
+
+The trick from this moment is to keep your sink clean on a daily basis. This is where you sustain feeling better. 
 
 ## The daily ritual
 
