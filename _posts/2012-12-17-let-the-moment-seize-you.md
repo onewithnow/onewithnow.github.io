@@ -70,7 +70,7 @@ I become the actor. Life is the writer, producer, and director of my movie.
 
 I do things calmly and for my own reasons, without pressure or excessive fear (some fear is part of living). 
 
-**Learn to wait, instead of chase.** Things happen at the pace of life, not at the speed of my seeking and insecurities. In the mean time, I enjoy the moments of [comfort](http://onewithnow.com/comfort-zone/), without guilt. 
+**Learn to wait, instead of chase.** Things happen at the pace of life, not at the speed of my seeking and insecurities. In the mean time, I enjoy the moments of [comfort](/comfort-zone/), without guilt. 
 
 Life is not too short or too long. Life is life—eternal, beautiful, scary, and mysterious. 
 
@@ -80,6 +80,6 @@ To let the moment seize you is to stop looking for opportunities … to be open 
 
 You are a unique and tasty flavor of life. Let it savor you—moment by moment. 
 
-**P.S. I usually share a theme for the upcoming year. For the past couple of years my themes were **[**less is more**](/a-new-theme/) **and** [**relentless focus**](http://onewithnow.com/looking-back-to-move-forward/). **This year’s theme (and intention) is to let the moment seize me.**
+**P.S. I usually share a theme for the upcoming year. For the past couple of years my themes were **[**less is more**](/a-new-theme/) **and** [**relentless focus**](/looking-back-to-move-forward/). **This year’s theme (and intention) is to let the moment seize me.**
 
 > The life that is you, in you, through you, and around you is waiting to seize and experience you.
