@@ -40,6 +40,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## November 2012
+
+- [The Art of Success: How to Set Yourself for Success before You Start](/art-of-success/)
+- [What’s Your Emotional Addiction?](/emotional-addiction/)
+- [I Surrender](/i-surrender/)
+- [How to Become More Aware of Your Thoughts: A Fun Experiment](/aware-of-thoughts/)
+
 ## October 2012
 
 - [The Time of Your Life](/time-of-your-life/)
