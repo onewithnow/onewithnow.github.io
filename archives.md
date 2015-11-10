@@ -40,6 +40,14 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+
+## December 2012
+
+- [Reflections on Distractions and Focus](/distractions-and-focus/)
+- [What Makes Us Come Alive](/become-alive/)
+- [Don’t Seize the Moment. Let the Moment Seize You](/let-the-moment-seize-you/)
+- [The Gift of Attention](/gift-of-attention/)
+
 ## November 2012
 
 - [The Art of Success: How to Set Yourself for Success before You Start](/art-of-success/)
