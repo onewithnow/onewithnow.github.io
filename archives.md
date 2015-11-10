@@ -40,6 +40,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## October 2012
+
+- [The Time of Your Life](/time-of-your-life/)
+- [Interval Cleaning: Different Viewpoint + Intentional Movement = Joy](/interval-cleaning/)
+- [Chasing Novelty](/novelty/)
+- [Freedom and Honoring Commitment: A Delicate Balance](/balance-freedom-commitment/)
+
 ## September 2012
 
 - [If Life Granted You One Wish, What Would It Be? Here is Mine](/my-wish-self-acceptanc/)
