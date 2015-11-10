@@ -40,6 +40,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## September 2012
+
+- [If Life Granted You One Wish, What Would It Be? Here is Mine](/my-wish-self-acceptanc/)
+- [Loving Your Comfort Zone](/comfort-zone/)
+- [Navigating the Unknown: How to Grow Through Whatever Life Throws Your Way](/navigate-the-unknown/)
+- [How Do I Move Forward after Living a Life of Failure?](/moving-after-failing/)
+
 ## August 2012
 
 - [How to Not Fear Being Left Behind](/left-behind/)
