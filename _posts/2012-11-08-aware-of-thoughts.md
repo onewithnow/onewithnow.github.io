@@ -40,7 +40,7 @@ Thoughts either support you or they don't. Some can be helpful and effective. Ot
 
 Imagine that you have two sidekicks, one sitting on your right shoulder and the other on your left shoulder. They are your thinking sidekicks, guards, assistants, or any other name you’d like to call them.
 
-<left>![Demon](/images/demo.png)</left><right>![Sonic](/images/sonic.png)</right>
+[Sidekicks](/images/sidekicks.png)
 
 **The Supporter:** On the right hand side sits a character that’s imaginative, cool, and supportive. My choice is Sonic the hedgehog. He’s feisty and playful. I chose him because he reminds of the fun games I played in the past. 
 
