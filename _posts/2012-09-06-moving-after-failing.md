@@ -66,7 +66,7 @@ If you feel that you’ve had a lot of failure in your life, reflect on the foll
 
 **Did you (or still do) take care of yourself? Cared for family, a plant/garden or pet?** You are nourishing life with every act and if that’s not success, what is? 
 
-**Have you ever paid for a cup of coffee or a meal or a service?Have you received any compensation for any work you've done? ** You moved the economy along in more ways than you realize. 
+**Have you ever paid for a cup of coffee or a meal or a service?Have you received any compensation for any work you've done?** You moved the economy along in more ways than you realize. 
 
 **Have you ever loved or been loved—even if it didn’t last?** You have changed the chemistry and the heart of life. 
 
@@ -96,7 +96,7 @@ To move forward you need to do one simple thing: start moving. Just take one ste
 
 **View** – Spend a few minutes (or more) visualizing and thinking about what would it take for you to get started. 
 
-**Act **– Take the first step. If it’s too daunting, split it into smaller parts and do one of the parts. Once done, move on to the next step. 
+**Act** – Take the first step. If it’s too daunting, split it into smaller parts and do one of the parts. Once done, move on to the next step. 
 
 **A couple of examples:** 
 

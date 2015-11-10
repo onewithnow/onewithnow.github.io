@@ -154,4 +154,4 @@ I leave you with this beautiful verse from the Tao Te Ching that I try to live b
 
 > without ever having gone to see it.
 
-By Lao-tzu (Translated by S. Mitchell)
+> By Lao-tzu (Translated by S. Mitchell)
