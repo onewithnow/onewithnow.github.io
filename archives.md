@@ -4,6 +4,9 @@ title: Archives
 permalink: /archives/
 ---
 
+## November 2015
+
+- [A Gentle Guide to Keeping Promises to Ourselves](/keeping-promises)
 
 ## October 2015
 
