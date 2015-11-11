@@ -43,6 +43,12 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## January 2013
+
+- [Two “What If” Questions to Manage Risk, Make a Decision and Move Forward](/what-if-questions-to-manage-risk/)
+- [When People Do Bad Things and Get Away with It: Does Karma Malfunction?](/when-people-do-bad-things-and-get-away-with-it/)
+- [Fulfilling Big Dreams Starts with Very Small Promises and Actions](/very-small-promises/)
+- [How to Appreciate This Moment and Stop Wishing Things Were Different](/appreciate-this-moment/)
 
 ## December 2012
 
