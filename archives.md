@@ -43,6 +43,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## February 2013
+
+- [Taming the Harsh Critic: An Appreciation for People Who Create and Share with the World](/the-critic/)
+- [5 Steps to Cope with (Not Avoid) Physical Pain](/cope-with-pain/)
+- [A Beating Heart and an Open Mind](/beating-heart/)
+- [Trusting Life](/trusting-life/)
+
 ## January 2013
 
 - [Two “What If” Questions to Manage Risk, Make a Decision and Move Forward](/what-if-questions-to-manage-risk/)
