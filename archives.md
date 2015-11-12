@@ -159,7 +159,7 @@ permalink: /archives/
 
 - [Awareness: Awakening to the Witness Within](/awareness-awakening-to-the-witness-within/)
 - [The Paradox of Blame](/paradox-of-blame/)
-- [The Simple Math of Achievement](/the-simple-math-of-achievment/)
+- [The Simple Math of Achievement](/the-simple-math-of-achievement/)
 - [The Power of Words](/power-of-words/)
 
 ## August 2011
