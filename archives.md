@@ -43,6 +43,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## April 2013
+
+- [When Life Disappoints](/when-life-disappoints/)
+- [How to Want Less in a World That Screams More](/want-less/)
+- [Think Magic, Not Duty](/think-magic/)
+- [The Most Important Step in Simplifying Your Life](/eliminate-to-simplify/)
+
 ## March 2013
 
 - [Are You on a Path to Nowhere? How to Gain Clarity and Live Passionately](/gain-clarity-and-live-passionately/)
