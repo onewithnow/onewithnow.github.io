@@ -129,6 +129,6 @@ This is a 4-week online interactive course that sums up Barrie’s extensive exp
 
 It’s called [The Path to Passion](http://pathtopassioncourse.com/) and I whole-heartedly believe it will help you.
 
-The price might be steep for some. But the cost is nothing compared to the benefits of clarity, focus, and tangible results. Plus, Barrie offers a 100% money back guarantee, and free personal coaching if you don’t find your passion in 6 months after the course. I hope you’ll take advantage of this [life-changing program]((http://pathtopassioncourse.com/).
+The price might be steep for some. But the cost is nothing compared to the benefits of clarity, focus, and tangible results. Plus, Barrie offers a 100% money back guarantee, and free personal coaching if you don’t find your passion in 6 months after the course. I hope you’ll take advantage of this [life-changing program](http://pathtopassioncourse.com/).
 
 Regardless of what you decide to do, the main thing is to do something. You owe it to yourself … to live a life of joy and ease … of truth and purpose.

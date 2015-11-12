@@ -132,7 +132,7 @@ Over time the papers add up and I start noticing the box. And it eats at me. I�
 
 Putting stuff away can be a hindrance when it’s done to avoid dealing with something. I can spend 15 to 20 minutes putting stuff away and making everything look neat. It is a waste of time because I haven’t really dealt with anything.
 
-This is a tactic of avoidance and a way to feel better without putting much thought into the action.
+*This is a tactic of avoidance and a way to feel better without putting much thought into the action.*
 
 I hope you find the above examples useful when you uncover your own fake busyness.
 
