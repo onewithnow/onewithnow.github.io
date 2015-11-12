@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taming the Harsh Critic&358; An Appreciation for People Who Create and Share with the World
+title: Taming the Harsh Critic&#58; An Appreciation for People Who Create and Share with the World
 author: Manal Ghosain
 categories:
 tags:

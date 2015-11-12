@@ -82,6 +82,6 @@ We have [enough](/the-magic-of-enough/) sunshine to warm our lives, enough rain 
 
 To trust is to allow life to lead and for us to follow.
 
-_Trust is the deep knowing that all is well, and all will be well. _
+_Trust is the deep knowing that all is well, and all will be well._
 
 > I think we may safely trust a good deal more than we do.  ~Henry David Thoreau
