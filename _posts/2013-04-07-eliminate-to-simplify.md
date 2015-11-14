@@ -57,7 +57,7 @@ I can think of two reasons to keep prescription receipts:
   * For tax purposes, and
   * As a reference to track the prescriptions every individual has been taking over the years.
 
-**4- Are you reasons still valid today? **
+**4- Are you reasons still valid today?**
 
 If for example you kept books on photography because you wanted to pursue it as a passion, then later changed your mind, you don’t need to keep the books any more.
 
