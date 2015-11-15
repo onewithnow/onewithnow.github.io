@@ -43,6 +43,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## May 2013
+
+- [Reflections on Habits and Change](/habits-and-change/)
+- [5 Things You Will Never Regret](/no-regrets/)
+- [Are You Happy Right Now? If Not, What Would Make You Happy?](/happy/)
+- [The Breath of Life](/the-breath-of-life/)
+
 ## April 2013
 
 - [When Life Disappoints](/when-life-disappoints/)
