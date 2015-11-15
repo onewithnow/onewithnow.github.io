@@ -40,7 +40,7 @@ Instead of fearing that we’re missing out, we can focus on the joy of doing so
 
 **2- Give each action the attention it deserves** 
 
-Doing the [best ](/doing-the-best-you-can/)you can is the best way not only to get things done, but also to_ enjoy_ the doing. There is something [magical](/guide-to-excellence/) about a job well done. 
+Doing the [best ](/doing-the-best-you-can/)you can is the best way not only to get things done, but also to _enjoy_ the doing. There is something [magical](/guide-to-excellence/) about a job well done. 
 
 **3- Let go of the concept of time** 
 

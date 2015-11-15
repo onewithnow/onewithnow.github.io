@@ -10,7 +10,7 @@ tags:
 
 Our relationship with time is one that continues to intrigue me (and probably you). 
 
-We divide time into past, present, and future. In reality the past _was _the present. And the future is what we _think _the _next_ present is going to be. 
+We divide time into past, present, and future. In reality the past _was_ the present. And the future is what we _think_ the _next_ present is going to be. 
 
 We all know that the past is not what really happened, but what _we remember_ about what happened—subjective, selective, and possibly inaccurate. 
 
