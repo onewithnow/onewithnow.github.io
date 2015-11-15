@@ -54,7 +54,9 @@ We don’t need to look for miracles outside of ourselves. The breath of life is
   * Awakens and brings you back to reality and to this precious moment
   * Connects you with life and the cycle of creation
 
-A breath is what keeps us alive. You don’t need to learn how to breathe; you just need to pay attention to it, as often as you can. 
+A breath is what keeps us alive. 
+
+You don’t need to learn how to breathe; you just need to pay attention to it, as often as you can. 
 
 ## Breath awareness
 

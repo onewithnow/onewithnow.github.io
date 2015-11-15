@@ -100,9 +100,9 @@ All you need to do is start, right now.
 
 ## Recommended resources
 
-**[The Power of Habit:**](http://charlesduhigg.com/the-power-of-habit/) If you want to work on any habit, I highly recommend not only reading this book, but working with the guidance provided. The habit loop template is an excellent way to implement change. 
+[**The Power of Habit:**](http://charlesduhigg.com/the-power-of-habit/) If you want to work on any habit, I highly recommend not only reading this book, but working with the guidance provided. The habit loop template is an excellent way to implement change. 
 
-**[Tiny Habits: **](http://tinyhabits.com/)This program is fun and so easy. You can sign up (for free) and commit to doing three very small things for a week. You will get all the information you need to choose your tiny behaviors and work with the program. I recommend that you do it at least once. You will gain a better understanding of how small changes work and implement a few positive habits. 
+[**Tiny Habits:**](http://tinyhabits.com/)This program is fun and so easy. You can sign up (for free) and commit to doing three very small things for a week. You will get all the information you need to choose your tiny behaviors and work with the program. I recommend that you do it at least once. You will gain a better understanding of how small changes work and implement a few positive habits. 
 
 If you’re interested in reading more about habits, check out these articles from the archives. 
 
@@ -110,5 +110,7 @@ If you’re interested in reading more about habits, check out these articles fr
 - [10 Practical Steps to Habit Changing Success](/10-practical-steps-to-habit-changing-success/)
 - [The Top 3 Reasons We Succeed or Not in Sustaining Change](/the-top-3-reasons-we-succeed-or-not-in-sustaining-change/)
 - [The Simple math of Achievement](/the-simple-math-of-achievement/)
+
+I wish you the best of success in any changes you want to make.
 
 ##### [Photo credit](http://www.flickr.com/photos/peasap/1472240082/)
