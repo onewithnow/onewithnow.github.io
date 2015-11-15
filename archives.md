@@ -43,6 +43,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## July 2013
+
+- [Making Peace with What We Don’t (and May Never) Know](/we-may-never-know/)
+- [Patience](/patience/)
+- [Sweep in Front of Your Own Door](sweep/)
+- [The Quiet Life](/the-quiet-life/)
+
 ## June 2013
 
 - [Why Expert Advice Doesn’t Work and What to Do Instead](/less-expert-advice/)
