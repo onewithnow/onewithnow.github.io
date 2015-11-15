@@ -47,7 +47,7 @@ permalink: /archives/
 
 - [Making Peace with What We Don’t (and May Never) Know](/we-may-never-know/)
 - [Patience](/patience/)
-- [Sweep in Front of Your Own Door](sweep/)
+- [Sweep in Front of Your Own Door](/sweep/)
 - [The Quiet Life](/the-quiet-life/)
 
 ## June 2013
