@@ -43,6 +43,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## August 2013
+
+- [What Is Your Life Telling You?](/life-talk/)
+- [The Persistence (Stick-to-itiveness) Habit](/persistence/)
+- [Expanding Focus: If You Can’t Get One Thing Done, Focus on Five Things Instead](/expanding-focus/)
+- [Why Kids Make the Best Actors and What We Can Learn from Them](/lessons-from-kids/)
+
 ## July 2013
 
 - [Making Peace with What We Don’t (and May Never) Know](/we-may-never-know/)
