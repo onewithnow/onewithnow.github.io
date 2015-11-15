@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-![Reading](/images/expert.jpg)
+![Reading](/images/experts.jpg)
 
 Having a dream or desire to work on is a wonderful thing. It fuels our days with passion and purpose. It makes us feel alive.
 
