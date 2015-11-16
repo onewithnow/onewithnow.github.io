@@ -30,7 +30,7 @@ But I felt calmer (instead of frantic) so I was able to deal with it, instead of
 
 This is not positive thinking; it’ more of a realistic perceiving of what is happening.
 
-> To accept something is not to find the positive in it, but also _not _to focus on the negative. Look at it as a neutral experience here for a short period of time … a transient passenger that will move on at one point.
+> To accept something is not to find the positive in it, but also not to focus on the negative. Look at it as a neutral experience here for a short period of time … a transient passenger that will move on at one point.
 
 When we welcome what life brings us, we don’t expend energy fretting and worrying needlessly. We [surrender](/i-surrender/) to what is and allow it to be. And we open up to a far greater intelligence than what the meager mind conjures up. 
 
