@@ -6,6 +6,7 @@ permalink: /archives/
 
 ## November 2015
 
+- [How to Say No to One of Your Dreams without Crushing Your Soul](/no-with-love/)
 - [A Gentle Guide to Keeping Promises to Ourselves](/keeping-promises)
 
 ## October 2015
