@@ -61,7 +61,7 @@ Nothing in life is set in stone, until we take our last breath. So if we choose 
 
 When we approach the decision of letting a dream go with a flexible mind, we won’t fear making mistakes. We can make mistakes, and correct our path, when necessary. It’s not the end of the world.
 
-**Self -love and compassion: You’re not your dreams**
+**Self-love and compassion: You’re not your dreams**
 
 When we let go of a dream, we can do it with love, and with the understanding that we’re making the best choice possible for now, without judgment or fear of losing part of ourselves.
 
