@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-![Self-image](/images/image.jpg)
+![Self-image](/images/self-image.jpg)
 
 Happiness is something we all strive for. 
 
@@ -26,7 +26,9 @@ I wrote in the past about [self-acceptance](/my-wish-self-acceptanc/) as the fou
 
 I still judged myself, even when I tried to accept myself. 
 
-As I look into my own behavior, I realize that letting go of self-judgment is the best way to move towards self-acceptance. Before the how, I’d like to share a few thoughts about judgment. 
+As I look into my own behavior, I realize that letting go of self-judgment is the best way to move towards self-acceptance. 
+
+Before the how, I’d like to share a few thoughts about judgment. 
 
 ## Judgment is:
 
