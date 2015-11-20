@@ -44,6 +44,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## October 2013
+
+- [The Fog of Thought](/fog-of-thought/)
+- [Doubt: The Number One Enemy of Growth and Progress](/doubt/)
+- [What We Justify (and What We Don’t)](/justify/)
+- [The Field of Possibility](/possibility/)
+
 ## September 2013
 
 - [Why Do We Place so Much Value on Entertainment and Escapism?](/escape/)
