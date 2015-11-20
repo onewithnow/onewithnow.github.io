@@ -44,6 +44,13 @@ permalink: /archives/
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+## December 2013
+
+- [13 Life Lessons from Investing in Stocks](/investing-lessons/)
+- [The Changes That Matter but Cannot Be Measured](/inner-change/)
+- [Taking Stock of the Worst Excuses](/excuses/)
+- [The Holidays and Family: From Disappointment to Love](/from-disappointment-to-love/)
+
 ## November 2013
 
 - [The Lucky Ones](/lucky/)
