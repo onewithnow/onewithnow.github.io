@@ -30,7 +30,9 @@ Investing in high-risk stocks may generate awesome gains, but it can also result
 
 The same applies to life. As long as we’re alive and breathing, anything (good or not so good) is possible. All we need to do is make the best decision we can, and get on with the business of living. 
 
-**3- No one can predict the future.** No one can time the stock market with absolute certainty. There are trends and indications that can help in making decisions (which end up being right or wrong). 
+**3- No one can predict the future.** 
+
+No one can time the stock market with absolute certainty. There are trends and indications that can help in making decisions (which end up being right or wrong). 
 
 We may buy a stock that goes down in price, or sell one that goes up in price afterwards. Over time the price variance won’t matter much. 
 
