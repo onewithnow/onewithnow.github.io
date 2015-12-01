@@ -4,6 +4,8 @@ title: Archives
 permalink: /archives/
 ---
 
+Articles published to date in reverse chronological order (from latest to earliest)
+
 ## November 2015
 
 - [Finding One Thing You Like about Anyone](/like/)
