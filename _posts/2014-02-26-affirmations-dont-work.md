@@ -41,9 +41,9 @@ My mind cannot be easily swayed into the positive. So adding a new positive stat
 
 **2- Can’t fake feelings** 
 
-One of affirmations’ prerequisites is injecting the statement with all the positive feelings one can muster. E
+One of affirmations’ prerequisites is injecting the statement with all the positive feelings one can muster. 
 
-motions are the anchors of memory and beliefs. They are what makes an experience or a repetitive thought sink in deeply. 
+Emotions are the anchors of memory and beliefs. They are what makes an experience or a repetitive thought sink in deeply. 
 
 Because of my innate skepticism, I could not bring myself to project a positive feeling when I wasn’t really feeling it. 
 
@@ -114,5 +114,3 @@ Turning [gratitude](/the-gratitude-journey-continues/) into a daily practice can
 Affirmations can be a wonderful tool for empowering a more positive mindset. But like most things in life, they don’t work for everyone. 
 
 For the skeptics, like me, a more effective approach is to let go of trying to change how we feel, act calmly, and remember all the blessing of life and reality as it is. 
-
-##### [Photo Credit](http://www.flickr.com/photos/danielavladimirova/6627187639)
