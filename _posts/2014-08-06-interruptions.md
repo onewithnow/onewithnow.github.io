@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-![Colorful interruptions](/images/interruption.jpg)
+![Colorful interruptions](/images/interruptions.jpg)
 
 A few weeks back I got one of those dreaded early morning phone calls. It was my mother and the conversation started with I have a problem. It was another water leak in the house (the third to be precise). 
 
