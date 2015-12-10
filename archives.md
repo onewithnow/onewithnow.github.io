@@ -52,6 +52,28 @@ Articles published to date in reverse chronological order (from latest to earlie
 - [Who Is Taking Care of You?](/taking-care-of-you)
 - [Awakening to Pain](/awakening-to-pain)
 
+
+## December 2014
+
+- [Endings and Beginnings: Lessons and Possibilities (Part 2: Ideas for a Fresh Start)](/possibilities/)
+- [Endings and Beginnings: Lessons and Possibilities (Part 1: Most Important Lessons)](/lessons-2014)
+- [Want Peace of Mind? Answer This Question](/peace-question/)
+- [The Key to Happiness](/happiness/)
+
+## November 2014
+
+- [How to Be More Loving](/loving/)
+- [Dancing in the Rain, Dancing with Life](/dance/)
+- [The Best Way to Live](/best-way-to-live/)
+- [How to Uncover and Let Go of Guilt](/guilt/)
+
+## October 2014
+
+- [Write Like No One Is Reading](/just-write/)
+- [When Blessings Turn into Problems](/blessings-into-problems/)
+- [All Is Sacred](/sacred)
+- [The Pain of Waiting (and What to Do about It)](/pain-of-waiting/)
+
 ## September 2014
 
 - [Less but Better: A Way of Life](/less-but-better/)
