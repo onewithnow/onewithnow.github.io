@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Endings and Beginnings&#58; Lessons and Possibilities (Part 2: Ideas for a Fresh Start)
+title: Endings and Beginnings&#58; Lessons and Possibilities (Part 2&#58; Ideas for a Fresh Start)
 author: Manal Ghosain
 categories:
 tags:
