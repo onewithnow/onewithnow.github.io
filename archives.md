@@ -83,7 +83,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 ## January 2015
 
 - [7 Signs That Overwhelm Has Taken Over Your Life](/overwhelm-signs/)
-- [On Contentment and Ambition](contentment-and-ambition/)
+- [On Contentment and Ambition](/contentment-and-ambition/)
 - [What the World Needs](/our-world/)
 - [Who Do You Want to Be?](/who-do-you-want-to-be/)
 
