@@ -1,19 +1,12 @@
 ---
 layout: post
-title: 
+title: Write Like No One Is Reading 
 author: Manal Ghosain
 categories:
 tags:
 ---
 
 ![Home office](/images/home-office.jpg)
-
-
-&#58;
-
-# Write Like No One Is Reading
-
-![Writing](/wp-content/uploads/2014/10/Computer.jpg)
 
 > “You’ve got to sing like you don’t need the money. Love like you’ll never get hurt. You’ve got to dance like nobody’s watchin’. It’s gotta come from the heart if you want it to work.” ~ Come from the Heart by Susanna Clark and Richard Leigh
 
