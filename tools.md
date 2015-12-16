@@ -19,7 +19,8 @@ Below are the tools I use to publish and maintain the site.
 - Writing: iA writer
 - Images source: Pixabay
 - Image editing: Default Mac previous and Pixlr
-
+jpeg optimizer
+tiny png
 
 
 

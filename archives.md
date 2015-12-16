@@ -8,6 +8,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## December 2015
 
+- [The 12 Priceless Gifts of Christmas and Beyond](/priceless-gifts/)
 - [Simple Motivation: Something to Look Forward to](/forward/)
 
 ## November 2015
