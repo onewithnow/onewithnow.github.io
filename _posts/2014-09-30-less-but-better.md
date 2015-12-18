@@ -76,7 +76,9 @@ This is the perfect time of the year to shed the excess and embrace the very few
 
 This article is purposefully shorter than average. My intention was to introduce the idea of less but better. I hope you get a chance to try it. 
 
-A few other articles that might be of help: **On less:**
+A few other articles that might be of help: 
+
+**On less:**
 
   * [How to Want Less in a World That Screams More](/want-less/)
   * [The Truth About Stuff and the Peace of Less](/peace-of-less/)

@@ -94,7 +94,9 @@ One of the most painful things is putting something on [hold](/guide-to-completi
 
 The best way is to keep it on your list (at least mentally) as a potential interruption in the future. This prepares you for yet another interruption once the project becomes active again. When it’s time to restart, make it a priority and deal with it. Otherwise, let it be and work on your current important stuff. 
 
-**5- Reduce your own actions and communications.** Instead of wanting others to interrupt us less, let's focus on our own behavior. 
+**5- Reduce your own actions and communications.** 
+
+Instead of wanting others to interrupt us less, let's focus on our own behavior. 
 
 How much of what you have to do, or say is _really_ important? 
 

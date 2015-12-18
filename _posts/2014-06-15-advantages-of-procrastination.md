@@ -94,7 +94,7 @@ Nothing ever turns out the way we expected it. And our imaginary mapped out idea
 
 **There are no magic potions or magicians:** There is no magic solution to procrastination, and no one is more capable than you. The sooner you embrace this notion, the sooner you’ll stop looking for solutions and start taking action. 
 
-**The power of consistency:**[Repeated](/make-repetition-more-fun/) small action is all we need. Keep going and somehow the universe extends a helping hand. Most routines start with one clumsy step, then another, then an inspiration comes along and we feel like we’re making progress. 
+**The power of consistency:** [Repeated](/make-repetition-more-fun/) small action is all we need. Keep going and somehow the universe extends a helping hand. Most routines start with one clumsy step, then another, then an inspiration comes along and we feel like we’re making progress. 
 
 Keep at it and revise as you go along. Stopping is the enemy of progress and improvement. 
 

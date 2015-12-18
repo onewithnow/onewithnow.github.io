@@ -110,4 +110,4 @@ Darkness doesn't have to be scary, and emptiness doesn't have to feel lonely.
 
 > There are limitless possibilities of what we can fill the empty half of the glass with.
 
-##### [Photo Credit](http://www.flickr.com/photos/gsfc/13310082333/)_
+##### [Photo Credit](http://www.flickr.com/photos/gsfc/13310082333/)

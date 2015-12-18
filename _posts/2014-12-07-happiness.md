@@ -92,4 +92,6 @@ Joy comes from the [smallest](/pure-joy-comes-from-the-simplest-acts/) or grande
 
 Happiness will meet you at the gates of joy. And it will greet you with open arms. Happiness then becomes whatever you feel it is for you—fulfillment, peace, contentment, satisfaction, gratitude, or fun. 
 
-The secret to happiness is to let go of wanting to be happy. Your power lies not in wanting happiness but in finding joy and letting go of misery—both are within your ability and reach.
+The secret to happiness is to let go of wanting to be happy. 
+
+Your power lies not in wanting happiness but in finding joy and letting go of misery—both are within your ability and reach.
