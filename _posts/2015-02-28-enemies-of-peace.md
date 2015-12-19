@@ -82,6 +82,8 @@ When we simplify our work and commitments, and we clear some clutter from our en
 
 **5- Practice contentment**. Learning to [appreciate](/contentment-and-ambition/) what we have can offset striving and wanting. [Gratitude](/a-gratitude-journey/) and appreciation make us feel better. [Joy](/joy-now/) is within us and around us. We just need to stop and look at life for a moment—with openness and curiosity. 
 
-When we see the beauty and wonder of life, things tend to get easier and we feel calmer. We’ve been sold on the notion that struggle is part of the human condition. But upon examination, we realize that struggle is only a symptom of habitual behaviors, beliefs, and emotions that are mostly self-created. If we change the habits, the symptom will disappear. 
+When we see the beauty and wonder of life, things tend to get easier and we feel calmer. 
+
+We’ve been sold on the notion that struggle is part of the human condition. But upon examination, we realize that struggle is only a symptom of habitual behaviors, beliefs, and emotions that are mostly self-created. If we change the habits, the symptom will disappear. 
 
 So instead of going to war with our habits and emotions, we can make peace with them and free ourselves from needless suffering.

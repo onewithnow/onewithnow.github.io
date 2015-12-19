@@ -65,7 +65,7 @@ Preparation is not an exact science. It can turn into a systematic process over 
 The nature of the task or project will dictate how much preparation is required. Consider the following. 
 
   * **Environment:** Clearing your work area of clutter and getting your tools ready before you start can save you a lot of time. It will also motivate you to get started.
-  * **Time: **Some situations require preparation weeks or months ahead of time, and others need an hour the day before. We may not need more than a few minutes to mentally visualize what we need to do for a simple task. We’d need to have a detailed timeline of how long a big project would take and how we’re going to prioritize it.
+  * **Time:** Some situations require preparation weeks or months ahead of time, and others need an hour the day before. We may not need more than a few minutes to mentally visualize what we need to do for a simple task. We’d need to have a detailed timeline of how long a big project would take and how we’re going to prioritize it.
   * **Action:** Your action can be as simple as buying your tools or clearing out clutter. Another simple but important action is to look at your list the day before, or mentally go through what you need to do and see how it would fit in your [timeline](/time-limits/). There are tasks and projects that require research, talking to people, and exploring various options. Things like travel, learning a new skill, or selling your home all require more extensive preparation ahead of time.
 
 ## Mastery

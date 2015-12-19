@@ -20,7 +20,9 @@ This approach is problematic on so many levels. We’ve burdened ourselves with 
 
 ## What if we took a step back and looked at the human life from a cosmic perspective?
 
-What are we going to see? Based on what we’ve discovered so far about creation, we know that: 
+What are we going to see? 
+
+Based on what we’ve discovered so far about creation, we know that: 
 
   * Our universe is 13.82 billion years old,
   * Our beautiful blue planet that we call home is around 4.5 billion years old,
@@ -59,7 +61,9 @@ Childhood is:
 
 **Presence:** Children live in the moment, and for the moment. They don’t regret the past, or think about the future. 
 
-**Innocence:** A young child doesn’t have an agenda or ulterior motives. He lives intuitively, and doesn’t overthink anything. **Trust:** Children have complete trust in life. They don’t think about how they’re going to survive. They’re not bound by limitations. They’re not burdened with doubt, or worried about things going wrong. 
+**Innocence:** A young child doesn’t have an agenda or ulterior motives. He lives intuitively, and doesn’t overthink anything. 
+
+**Trust:** Children have complete trust in life. They don’t think about how they’re going to survive. They’re not bound by limitations. They’re not burdened with doubt, or worried about things going wrong. 
 
 **Curiosity:** A child learns through exploration and discovery. She may trip and fall, but she gets up, and tries again. 
 

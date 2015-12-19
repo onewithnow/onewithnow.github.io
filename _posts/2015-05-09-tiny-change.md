@@ -72,7 +72,7 @@ A tiny change by nature doesn’t require a lot of effort and commitment. So it�
 
 **4- If you skip, pick up again, without beating yourself up.** Sometimes unexpected interruptions get in the way, or we simply slip up. Embrace your humanity and cut yourself some slack. You’re not a robot. 
 
-**5-Keep going for at least a week before you add more.** If you complete a week without struggle or setbacks, you can add more time, or another tiny task. 
+**5- Keep going for at least a week before you add more.** If you complete a week without struggle or setbacks, you can add more time, or another tiny task. 
 
 **6- Track your progress and reflect.** Tiny change doesn’t bring visible results right away, so keep track of your actions in a journal, or by marking your calendar each day. Reflect on what you’ve accomplished and how you’ve changed every few weeks. 
 
