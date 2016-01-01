@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
+
+**ABOUT**
+
 One With Now (OWN) is about uncovering the peace within and making the best out of every day.
 
 It provides practical advice on how to become more aware of this moment and accept it without resistance. It’s about reducing mental and emotional clutter and creating more space in your life for what truly matters—experiencing and embracing life moment by moment in the eternal now.
@@ -16,3 +19,18 @@ My writing is not about abstract concepts but about hands-on life experiences. C
 My hope is for you to live a peaceful and authentic experience in this moment—to be one with now.
 
 I would love to hear from you, so feel free to contact me and share any thoughts you have. And if you enjoy reading this blog, please support it by subscribing or bookmarking and visiting the site.
+
+——
+
+**CONTACT**
+
+Want to get in touch? I love hearing from you. 
+
+And please send me any suggestions, typos, broken links, or anything else that requires attention. I truly appreciate it.
+
+- [Click here to email me.] (mailto:own@onewithnow.com)
+- [Connect via Twitter.] (http://www.twitter.com/onewithnow)
+- [Connect on Facebook.] (http://www.facebook.com/onewithnow) 
+
+<strong>Thank you for being here.</strong>
+
