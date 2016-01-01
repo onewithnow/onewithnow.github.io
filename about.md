@@ -52,7 +52,7 @@ Below are the tools I use to publish and maintain the site.
 
 **Content creation**
 
-- Writing: [iA Write]r (https://ia.net/writer)
+- Writing: [iA Writer](https://ia.net/writer)
 - Image editing: [Pixlr](http://pixlr.com/editor/)
 - Image optimization: [JPEG Optimizer](http://www.jpeg-optimizer.com/) & [TinyPNG](http://tinypng.com/)
 
