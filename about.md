@@ -36,7 +36,7 @@ Facebook: [onewithnow](http://www.facebook.com/onewithnow)
 
 *Thank you for being here.*
 
-***
+<hr/>
 
 **TOOLS**
 
@@ -53,6 +53,7 @@ Below are the tools I use to publish and maintain the site.
 **Content creation**
 
 - Writing: [iA Writer](https://ia.net/writer)
+Text editing: [TextWrangler](http://www.barebones.com/products/textwrangler/)
 - Image editing: [Pixlr](http://pixlr.com/editor/)
 - Image optimization: [JPEG Optimizer](http://www.jpeg-optimizer.com/) & [TinyPNG](http://tinypng.com/)
 
