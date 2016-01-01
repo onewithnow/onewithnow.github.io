@@ -20,8 +20,6 @@ My hope is for you to live a peaceful and authentic experience in this moment—
 
 I would love to hear from you, so feel free to contact me and share any thoughts you have. And if you enjoy reading this blog, please support it by subscribing or bookmarking and visiting the site.
 
-***
-
 **CONTACT**
 
 Want to get in touch? I love hearing from you. 
@@ -35,8 +33,6 @@ Twitter: [@onewithnow](http://www.twitter.com/onewithnow)
 Facebook: [onewithnow](http://www.facebook.com/onewithnow) 
 
 *Thank you for being here.*
-
-<hr/>
 
 **TOOLS**
 
@@ -53,7 +49,7 @@ Below are the tools I use to publish and maintain the site.
 **Content creation**
 
 - Writing: [iA Writer](https://ia.net/writer)
-Text editing: [TextWrangler](http://www.barebones.com/products/textwrangler/)
+- Text editing: [TextWrangler](http://www.barebones.com/products/textwrangler/)
 - Image editing: [Pixlr](http://pixlr.com/editor/)
-- Image optimization: [JPEG Optimizer](http://www.jpeg-optimizer.com/) & [TinyPNG](http://tinypng.com/)
+- Image optimization: [JPEG Optimizer](http://www.jpeg-optimizer.com/) - [TinyPNG](http://tinypng.com/)
 
