@@ -36,3 +36,23 @@ Facebook: [onewithnow](http://www.facebook.com/onewithnow)
 
 *Thank you for being here.*
 
+***
+
+**TOOLS**
+
+Below are the tools I use to publish and maintain the site. 
+
+**Site**
+
+- Site generator: [Jekyll](http://jekyllrb.com/)
+- Hosting: [Github pages](http://pages.github.com/)
+- Domain: [Name cheap](http://www.namecheap.com/)
+- Publishing software: [GitHub Desktop](https://desktop.github.com/)
+- Template: [Jekyll Now](http://www.jekyllnow.com/)
+
+**Content creation**
+
+- Writing: [iA Write]r (https://ia.net/writer)
+- Image editing: [Pixlr](http://pixlr.com/editor/)
+- Image optimization: [JPEG Optimizer](http://www.jpeg-optimizer.com/) & [TinyPNG](http://tinypng.com/)
+
