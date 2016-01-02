@@ -81,7 +81,11 @@ h6 {
 
 
  hr {
-  border-top: 1px solid $lightGrey;
+  hr {
+	height: 1px;
+	color: $lightGray;
+	background-color: $lightGray;
+	}
   }
 	
 p {
