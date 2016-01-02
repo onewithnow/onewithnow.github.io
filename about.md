@@ -48,7 +48,7 @@ Below are the tools I use to publish and maintain the site.
 - Hosting: [Github pages](http://pages.github.com/)
 - Domain: [Name cheap](http://www.namecheap.com/)
 - Publishing software: [GitHub Desktop](https://desktop.github.com/)
-- Template: [Jekyll Now](http://www.jekyllnow.com/)
+- Theme: [Jekyll Now](http://www.jekyllnow.com/)
 
 **Content creation**
 
