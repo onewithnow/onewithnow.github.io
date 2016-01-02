@@ -20,6 +20,8 @@ My hope is for you to live a peaceful and authentic experience in this moment—
 
 I would love to hear from you, so feel free to contact me and share any thoughts you have. And if you enjoy reading this blog, please support it by subscribing or bookmarking and visiting the site.
 
+***
+
 **CONTACT**
 
 Want to get in touch? I love hearing from you. 
@@ -33,6 +35,8 @@ Twitter: [@onewithnow](http://www.twitter.com/onewithnow)
 Facebook: [onewithnow](http://www.facebook.com/onewithnow) 
 
 *Thank you for being here.*
+
+***
 
 **TOOLS**
 
