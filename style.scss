@@ -79,8 +79,9 @@ h6 {
 }
 
   hr {
-	height: 1px;
+	height: 0px;
 	color: $lightGray;
+	border-bottom: 1px solid $lightGray;
 	background-color: $lightGray;
 	}
   
