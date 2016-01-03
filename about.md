@@ -45,7 +45,7 @@ Below are the tools I use to publish and maintain the site.
 **Site**
 
 - Site generator: [Jekyll](http://jekyllrb.com/)
-- Hosting: [Github Pages](http://pages.github.com/)
+- Hosting: [GitHub Pages](http://pages.github.com/)
 - Domain: [Namecheap](http://www.namecheap.com/)
 - Publishing software: [GitHub Desktop](https://desktop.github.com/)
 - Theme: [Jekyll Now](http://www.jekyllnow.com/)
