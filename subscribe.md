@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Join ONE WITH NOW
+title: Subscribe
 permalink: /subscribe/
 ---
-
 
 Sign up below to receive updates from ONE WITH NOW. 
 
