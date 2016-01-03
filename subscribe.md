@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 
+title: Join ONE WITH NOW
 permalink: /subscribe/
 ---
 
-## Awaken to the very life you’re living
 
-Sign up below to receive updates from ONE WITH NOW. It’s free. No spam. Unsubscribe any time.
+Sign up below to receive updates from ONE WITH NOW. 
 
+It’s free. No spam. Unsubscribe any time.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
