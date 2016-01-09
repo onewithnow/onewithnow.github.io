@@ -20,14 +20,16 @@ layout: default
 <hr/>
 
 <div>
+</div>
+<div>
  {% if page.previous %} 
-        <h5>PREVIOUS POST:</h5><h4> <a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title}}</a></h4>
+        <h5>PREVIOUS POST: <a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title}}</a></h5>
     {% endif %}
     </div>
 
     <div>
     {% if page.next %} 
-        <h4>NEXT POST: <a rel="next" href="{{ page.next.url }}">{{ page.next.title }}</a></h4>
+        <h5>NEXT POST: <a rel="next" href="{{ page.next.url }}">{{ page.next.title }}</a></h5>
     {% endif %}
     </div>
 
