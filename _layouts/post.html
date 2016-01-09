@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   
   <div class="post-author">
-  <h6> BY: {{ page.author }}</h6>
+  <h6> BY: {{ page.author }} - {{ page.date | date: "%B %e, %Y" }}</h6>
 </Div>
   
   <div class="entry">
@@ -16,15 +16,23 @@ layout: default
   <div class="date">
     <h5>PUBLISHED: {{ page.date | date: "%B %e, %Y" }}</h5>
   </div>
-<div>
+  
+  <div>
+  <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Share on Twitter</a> | <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Share on Facebook</a>
+  </div>
+
 <hr/>
+
+<div>
  {% if page.previous %} 
         <h5>PREVIOUS POST: <a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title}}</a></h5>
     {% endif %}
     </div>
+
     <div>
     {% if page.next %} 
         <h5>NEXT POST: <a rel="next" href="{{ page.next.url }}">{{ page.next.title }}</a></h5>
     {% endif %}
     </div>
+
 </article>
