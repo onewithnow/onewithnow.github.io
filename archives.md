@@ -8,12 +8,12 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## January 2016
 
-- Start with Clear Intentions (Find Your Deepest Why)(/clear-intentions/)
+- [Start with Clear Intentions (Find Your Deepest Why)](/clear-intentions/)
 
 ## December 2015
 
 - [The 3 Biggest Lessons of the Year](/lessons-2015/)
-- [Thank You Hackers: Struggle and the Gifts of Opportunity](/opportunity/)
+- [Struggle and the Gifts of Opportunity](/opportunity/)
 - [The 12 Priceless Gifts of Christmas and Beyond](/priceless-gifts/)
 - [Simple Motivation: Something to Look Forward to](/forward/)
 

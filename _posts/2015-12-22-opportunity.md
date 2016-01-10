@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thank You Hackers&#58; Struggle and the Gifts of Opportunity
+title: Struggle and the Gifts of Opportunity
 author: Manal Ghosain
 categories:
 tags:
