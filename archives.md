@@ -6,6 +6,10 @@ permalink: /archives/
 
 Articles published to date in reverse chronological order (from latest to earliest)
 
+## January 2016
+
+- Start with Clear Intentions (Find Your Deepest Why)(/clear-intentions/)
+
 ## December 2015
 
 - [The 3 Biggest Lessons of the Year](/lessons-2015/)
