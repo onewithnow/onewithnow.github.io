@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Testing
+title: 
 permalink: /slim/
 ---
 
-Join One with Now.
+[Awakening to now](/images/join.png)
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
