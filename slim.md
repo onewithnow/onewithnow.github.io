@@ -18,8 +18,7 @@ permalink: /slim/
     <div id="mc_embed_signup_scroll">
 	
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder=“Email address >
 </div>
 	
 <div id="mce-responses" class="clear">
