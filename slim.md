@@ -4,6 +4,7 @@ title: Testing
 permalink: /slim/
 ---
 
+Join One with Now.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
@@ -18,7 +19,7 @@ permalink: /slim/
     <div id="mc_embed_signup_scroll">
 	
 <div class="mc-field-group">
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder=“Email address >
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder=“Email address” >
 </div>
 	
 <div id="mce-responses" class="clear">
