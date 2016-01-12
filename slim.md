@@ -19,7 +19,7 @@ Join One with Now.
     <div id="mc_embed_signup_scroll">
 	
 <div class="mc-field-group">
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder=“email address”></div>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address"></div>
 	
 <div id="mce-responses" class="clear">
 		
