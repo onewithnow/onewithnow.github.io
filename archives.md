@@ -8,6 +8,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## January 2016
 
+- [Declutter Your Attention](/declutter-attention/)
 - [Start with Clear Intentions (Find Your Deepest Why)](/clear-intentions/)
 
 ## December 2015
