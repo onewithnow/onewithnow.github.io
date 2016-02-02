@@ -28,7 +28,7 @@ Want to get in touch? I love hearing from you.
 
 And please send me any suggestions, typos, broken links, or anything else that requires attention. I truly appreciate it.
 
-Email: [own@onewithnow.com] (mailto:own@onewithnow.com)
+Email: [own@onewithnow.com](mailto:own@onewithnow.com)
 
 Twitter: [@onewithnow](http://www.twitter.com/onewithnow)
 
