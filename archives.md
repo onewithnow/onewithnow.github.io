@@ -6,6 +6,10 @@ permalink: /archives/
 
 Articles published to date in reverse chronological order (from latest to earliest)
 
+## February 2016
+
+- [How to Organize Your Space and Keep It Neat](/organize/)
+
 ## January 2016
 
 - [Simplify: Why and Why Not?](/simplify/)
