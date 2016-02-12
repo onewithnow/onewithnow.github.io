@@ -8,7 +8,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## February 2016
 
-- [Is It Worth It](/worth-it/)
+- [Is It Worth It?](/worth-it/)
 - [How to Organize Your Space and Keep It Neat](/organize/)
 
 ## January 2016
