@@ -4,9 +4,7 @@ title: Subscribe
 permalink: /slim/
 ---
 
-Receive new articles and updates from One with Now. 
-
-It’s free. No spam. Unsubscribe any time.
+Receive new articles and updates from One with Now. It’s free. No spam. Unsubscribe any time.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
