@@ -4,7 +4,9 @@ title:
 permalink: /slim/
 ---
 
-![Awakening to now](/images/join.png)
+# Subscribe by mail
+
+Sign up below to receive updates from One with Now. It’s free. No spam. Unsubscribe any time.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
@@ -37,3 +39,7 @@ permalink: /slim/
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
 <!--End mc_embed_signup-->
+
+# Subscribe via [RSS](http://onewithnow.com/feed)
+
+## Thank you for being here!
