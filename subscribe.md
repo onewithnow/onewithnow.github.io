@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Subscribe
-permalink: /slim/
+permalink: /subscribe/
 ---
 
 Receive new articles and updates from One with Now. It’s free. No spam. Unsubscribe any time.
