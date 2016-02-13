@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: Subscribe
 permalink: /slim/
 ---
-
-# Subscribe by mail
 
 Sign up below to receive updates from One with Now. It’s free. No spam. Unsubscribe any time.
 
@@ -40,6 +38,6 @@ Sign up below to receive updates from One with Now. It’s free. No spam. Unsubs
 
 <!--End mc_embed_signup-->
 
-# Subscribe via [RSS](http://onewithnow.com/feed)
+Subscribe via [RSS](http://onewithnow.com/feed)
 
-## Thank you for being here!
+*Thank you for being here!*
