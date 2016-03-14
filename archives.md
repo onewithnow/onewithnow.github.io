@@ -6,6 +6,10 @@ permalink: /archives/
 
 Articles published to date in reverse chronological order (from latest to earliest)
 
+## March 2016
+
+- [Prioritizing You: How to Be There for Others and Still Do What Matters to You](/you/)
+
 ## February 2016
 
 - [All We Need to Do Is Just Be There](/be-there/)
