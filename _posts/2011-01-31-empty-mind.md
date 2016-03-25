@@ -18,7 +18,7 @@ Your mind is a tool that you can control—if you choose to. It can be an asset 
 
 An untamed mind lives on feeding the same thoughts and generating the same experiences.  A typical cycle is something like this. 
 
-<center>![Thought cycle](/images/cycle.png)</center>
+![Thought cycle](/images/cycle.png)
 
 You may ask, what’s wrong with this cycle. There is nothing wrong with it if you’re feeling good and experiencing what brings you joy. 
 
@@ -30,11 +30,11 @@ The mind tends to dwell more on the negative than positive.
 
 To empty your mind is to release what’s taking precious space in your mind and heart that’s not serving you.
 
-<center>![Breaking the cycle](/images/breakcycle.png)</center>
+![Breaking the cycle](/images/breakcycle.png)
 
 Once you process what’s on your mind, you gain perspective. You act, when needed, from clarity and truth. You no longer feed the loop. 
 
-<center>![action](/images/action.png)</center>
+![action](/images/action.png)
 
 ## An empty mind is:
 
