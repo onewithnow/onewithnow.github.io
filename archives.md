@@ -8,6 +8,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## March 2016
 
+- [The Truth Method: A 3-Step Process to Spring Clean Your Mind](/truth/) 
 - [Prioritizing You: How to Be There for Others and Still Do What Matters to You](/you/)
 
 ## February 2016
