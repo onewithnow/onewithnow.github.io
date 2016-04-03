@@ -6,6 +6,9 @@ permalink: /archives/
 
 Articles published to date in reverse chronological order (from latest to earliest)
 
+## April 2016
+
+- [The 3 Most Compelling Reasons to Form the Habit of Reflection](/reflect)
 ## March 2016
 
 - [The Truth Method: A 3-Step Process to Spring Clean Your Mind](/truth/) 
