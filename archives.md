@@ -8,6 +8,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## April 2016
 
+- [How to Start (and Stick with) a Daily Reflection Habit](/reflect-habit/)
 - [The 3 Most Compelling Reasons to Form the Habit of Reflection](/reflect)
 
 ## March 2016
