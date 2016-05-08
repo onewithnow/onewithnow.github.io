@@ -8,7 +8,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## May 2016
 
-- [Running out of Time? Uncommon Thoughts on What You Can Do about It](running-time/)
+- [Running out of Time? Uncommon Thoughts on What You Can Do about It](/running-time/)
 
 ## April 2016
 

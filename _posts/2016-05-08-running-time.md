@@ -73,7 +73,6 @@ How much time is enough to live a full life? Is there ever enough time? Or is it
 - [Making Time](/making-time/)
 - [If You Could Go Back in Time, What Would You Change?](/back-in-time/)
 - [How to Set and Work with Time Limits](/time-limits/)
-- [Expanding Time](/expanding-time/)
- 
+- [Expanding Time](/expanding-time/) 
 - [The Time of Your Life](/time-of-your-life/)
 - [Is It Time to Stop Playing Catch-up?](/is-it-time-to-stop-playing-catch-up/)
