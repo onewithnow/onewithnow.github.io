@@ -52,7 +52,7 @@ Before taking action, we need to clarify what’s important to us.
 
 **3. Let go of wanting to manage time:** Time moves at its own pace; it’s out of our control. What we can do is manage our choices and actions by prioritizing what matters and leaving space for unforeseen interruptions. 
 
-**4.* Bring expectations back to reality:** Having realistic expectations is a must in every relationship. Letting go of what life should look like (based on imposed societal expectations and ego-driven desires) will allow us to be true to ourselves. It will also allow time to help us in living our truth.
+**4. Bring expectations back to reality:** Having realistic expectations is a must in every relationship. Letting go of what life should look like (based on imposed societal expectations and ego-driven desires) will allow us to be true to ourselves. It will also allow time to help us in living our truth.
 
 **5. Respect and appreciate time:** Time is fleeting, as is our existence and every relationship we have. Time is worthy of our respect, and appreciation—it’s the dimension that allows us to exist in this form, and experience life.
 
