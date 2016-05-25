@@ -54,6 +54,6 @@ Below are the tools I use to publish and maintain the site.
 
 - Writing: [iA Writer](https://ia.net/writer)
 - Text editing: [TextWrangler](http://www.barebones.com/products/textwrangler/)
-- Image editing: [Pixlr](http://pixlr.com/editor/)
-- Image optimization: [JPEG Optimizer](http://www.jpeg-optimizer.com/) - [TinyPNG](http://tinypng.com/)
-
+- Forms, tracking & diagrams: [Excel](https://products.office.com/en-us/excel) - [Sheets](https://www.google.com/sheets/about/)
+- Image editing: [Pixelmator](http://www.pixelmator.com/mac/)
+- Image optimization: [JPEG](http://www.jpeg-optimizer.com/) - [PNG](http://tinypng.com/)
