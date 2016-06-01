@@ -8,6 +8,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## May 2016
 
+- [7 Actions You Can Take Right Now (No Matter Where You Are)](/do/)
 - [The Gift of Less](/less/)
 - [Running out of Time? Uncommon Thoughts on What You Can Do about It](/running-time/)
 
