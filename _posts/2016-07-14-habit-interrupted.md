@@ -52,17 +52,17 @@ Also, resuming an old habit is easier than forming a new one. We’ll experience
 
 The simplest way to start again is to reverse the reasons we stop in the first place. 
 
-1. **Revisit your deepest why.** Look back and think of why you did this habit in the first place. [What’s your deepest why?](/clear-intentions/) If we can justify stopping, we should be able to justify restarting. We can use our mind’s ability to our advantage.
+**1. Revisit your deepest why.** Look back and think of why you did this habit in the first place. [What’s your deepest why?](/clear-intentions/) If we can justify stopping, we should be able to justify restarting. We can use our mind’s ability to our advantage.
 
-2. **Determine the tiniest action you can start with today.** Use your previous experience as a starting point. It’s tempting to start big since it’s something we do well. That would be a mistake that I’ve done many times. 
+**2. Determine the tiniest action you can start with today.** Use your previous experience as a starting point. It’s tempting to start big since it’s something we do well. That would be a mistake that I’ve done many times. 
 
 To start writing again, I decided to just do ten minutes each day. Small actions are not worth resisting. So we’re more likely to stick to them.
 
-3. **Create a system of instant rewards for performing the habit.** This is something that will give you pleasure right away. For example, if I write for ten minutes, I get 20 minutes online to do whatever I want, guilt free.
+**3. Create a system of instant rewards for performing the habit.** This is something that will give you pleasure right away. For example, if I write for ten minutes, I get 20 minutes online to do whatever I want, guilt free.
 
-4. **Have a system of harsh consequences for not doing the habit.** We need to have a mechanism for inflicting pain as soon as possible. Wanting to avoid pain can be a great motivator. In my example, not doing a writing session means no TV or Netflix for a day. It will be even better if you have an accountability partner who’ll make sure you suffer for not doing your work.
+**4. Have a system of harsh consequences for not doing the habit.** We need to have a mechanism for inflicting pain as soon as possible. Wanting to avoid pain can be a great motivator. In my example, not doing a writing session means no TV or Netflix for a day. It will be even better if you have an accountability partner who’ll make sure you suffer for not doing your work.
 
-5. **Keep going.** The more you do something, the less you’ll resist it. As you probably know, resistance is the biggest obstacle we face when we want to take any worthy action. Once you build momentum, you’ll be more likely to stick to it. And if you happen to stop for whatever reason, start again, as soon as you can. 
+**5. Keep going.** The more you do something, the less you’ll resist it. As you probably know, resistance is the biggest obstacle we face when we want to take any worthy action. Once you build momentum, you’ll be more likely to stick to it. And if you happen to stop for whatever reason, start again, as soon as you can. 
 
 **A couple of reminders**
 
