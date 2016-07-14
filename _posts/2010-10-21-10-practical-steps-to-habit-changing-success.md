@@ -8,7 +8,7 @@ tags:
 
 ![Baby steps](/images/baby-steps.jpg)
 
-In the previous [article](/a-simple-but-powerful-way-to-start-or-change-a-habit/) I talked about the best way to create long lasting change. Once you know _what_ you want to do and_ how_ to go about it, have a look at the steps below to ensure that you succeed in your change process. 
+In the previous [article](/a-simple-but-powerful-way-to-start-or-change-a-habit/) I talked about the best way to create long lasting change. Once you know _what_ you want to do and _how_ to go about it, have a look at the steps below to ensure that you succeed in your change process. 
 
 You are probably familiar with most, if not all of the following steps.  As you go through the process, try to focus more on motivation and desires, and less on discipline and willpower. The latter will come naturally when needed. 
 

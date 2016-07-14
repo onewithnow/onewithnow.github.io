@@ -6,6 +6,11 @@ permalink: /archives/
 
 Articles published to date in reverse chronological order (from latest to earliest)
 
+
+## July 2016
+
+- [Habit Interrupted: Why Is It So Easy to Stop a Good Habit? (And How to Start Again)](/habit-interrupted/)
+
 ## June 2016
 
 - [The Biggest Fears That Turn Abundance into Clutter](/fearful-clutter/)
