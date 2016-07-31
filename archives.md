@@ -9,6 +9,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## July 2016
 
+- [Addicted to Suffering? The 5 Mental Habits of Needless Pain and Struggle](/suffer/)
 - [Habit Interrupted: Why Is It So Easy to Stop a Good Habit? (And How to Start Again)](/habit-interrupted/)
 
 ## June 2016
