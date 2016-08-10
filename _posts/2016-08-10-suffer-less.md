@@ -36,7 +36,7 @@ To clarify what’s essential, ask yourself the following questions:
 
 If you honestly answer the three questions before you do anything, you’ll probably eliminate 80% of the [noise](/curiosity/) that lingers in your mind, and on your lists.
 
-There are no universal rules for defining what’s [essential](less-but-better/). Other than survival needs, the rest is completely dependent on your choices and life situation.
+There are no universal rules for defining what’s [essential](/less-but-better/). Other than survival needs, the rest is completely dependent on your choices and life situation.
 
 If you keep asking the questions, and following through with the answers, you’ll reduce your obligations. You’ll also have clarity about the simplest way to do something. This by itself is an incredible step in reducing confusion and overwhelm.
 
