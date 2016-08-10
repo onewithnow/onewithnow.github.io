@@ -6,6 +6,9 @@ permalink: /archives/
 
 Articles published to date in reverse chronological order (from latest to earliest)
 
+## August 2016
+
+- [3 Basic Habits to Transform Needless Suffering](/suffer-less/)
 
 ## July 2016
 
