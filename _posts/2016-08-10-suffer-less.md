@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Basic Habits to Transform Needless Suffering
+title: The 3 Most Important Skills That Will Transform Needless Suffering
 author: Manal Ghosain
 categories:
 tags:
