@@ -6,6 +6,7 @@ categories: awareness, productivity
 ---
 
 ![Boy reflection in mirror](/images/boy-reflection-in-mirror.jpg)
+
 After a series of events that threw me off my routine, I found myself asking the above question repeatedly. I wasn’t seeking clarity, or exploring my needs. I was trying to deal with an overwhelming sense of helplessness and fatigue. I was seeking relief.
 
 We spend most of our days dealing with what comes up, or what’s expected of us (work, family, and survival needs). How often do we _consciously_ prioritize, and _do_ what matters to us, before we delve into the chaos of the day?

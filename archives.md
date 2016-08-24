@@ -8,6 +8,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## August 2016
 
+- [Pockets of Solitude](/solitude/)
 - [The 3 Most Important Skills That Will Transform Needless Suffering](/suffer-less/)
 
 ## July 2016
