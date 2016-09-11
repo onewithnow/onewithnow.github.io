@@ -6,6 +6,10 @@ permalink: /archives/
 
 Articles published to date in reverse chronological order (from latest to earliest)
 
+## September 2016
+
+- [Why Simplifying Is Not Enough](/simple-not-enough/)
+
 ## August 2016
 
 - [Pockets of Solitude](/solitude/)
