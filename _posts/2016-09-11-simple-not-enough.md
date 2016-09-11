@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-![Simple mess](/images/success.jpg)
+![Simple mess](/images/simple-mess.jpg)
 
 In our world of ever increasing complexity, simplicity has gained tremendous appeal. Who doesn’t want to live with calm focus and clarity? Who doesn’t want to experience more peace and joy?
 
