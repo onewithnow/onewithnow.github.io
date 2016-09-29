@@ -100,4 +100,4 @@ Keep at it and revise as you go along. Stopping is the enemy of progress and imp
 
 Procrastination happens, and will continue to happen. We don’t need to wage a war against it. All we need to do is _see_ the hidden payoffs, consciously let them go, and choose action. 
 
-#####[Photo Credit](http://www.flickr.com/photos/insunlight/422744431/)
+##### [Photo Credit](http://www.flickr.com/photos/insunlight/422744431/)

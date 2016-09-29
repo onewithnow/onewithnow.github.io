@@ -8,6 +8,7 @@ Articles published to date in reverse chronological order (from latest to earlie
 
 ## September 2016
 
+- [The Best Way to Overcome Procrastination](/value-action/)
 - [Why Simplifying Is Not Enough](/simple-not-enough/)
 
 ## August 2016
