@@ -4,7 +4,10 @@ title:
 permalink: /archives/
 ---
 
-Articles published to date in reverse chronological order (from latest to earliest)
+
+## October 2016
+
+- [The Peace of Not Having an Opinion](/no-opinion/)
 
 ## September 2016
 
