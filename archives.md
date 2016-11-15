@@ -4,6 +4,9 @@ title:
 permalink: /archives/
 ---
 
+## November 2016
+
+- [The Chaos and Grace of Life](/grace/)
 
 ## October 2016
 
