@@ -1,9 +1,12 @@
 ---
 layout: page
-title:
+title: ARCHIVES
 permalink: /archives/
 ---
 
+## December 2016
+
+- [Adventures in Going Nowhere](/nowhere/)
 
 ## November 2016
 
