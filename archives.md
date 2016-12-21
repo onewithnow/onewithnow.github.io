@@ -4,7 +4,6 @@ title:
 permalink: /archives/
 ---
 
-
 ## December 2016
 
 - [Adventures in Going Nowhere](/nowhere/)
