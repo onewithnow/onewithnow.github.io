@@ -39,7 +39,7 @@ If we’re functioning with I got nothing all the time, we will, in most cases, 
 
 **Loss of drive and initiative:** The ego says: I know I got nothing, I know myself better than anyone. This depressing thought keeps perpetuating itself and stops us from even daring to dream.
 
-**Rejecting **success**: Experiencing success in any situation will not mean much to a know-it-all ego. It was luck, or might’ve been a mistake—not ability. And you torment yourself and fear being exposed as a fraud. 
+**Rejecting success**: Experiencing success in any situation will not mean much to a know-it-all ego. It was luck, or might’ve been a mistake—not ability. And you torment yourself and fear being exposed as a fraud. 
 
 **Cynicism and no sense of value:** It’s easy to sink into negativity and not appreciate anything when we don’t value our contribution. Can we enjoy anything we don’t appreciate?
 
