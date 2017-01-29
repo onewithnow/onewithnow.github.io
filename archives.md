@@ -3,6 +3,9 @@ layout: page
 title: Archives
 permalink: /archives/
 ---
+## January 2017
+
+- [The Soul Crushing Belief That Stops You from Even Trying](/got-nothing/)
 
 ## December 2016
 
