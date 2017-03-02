@@ -36,7 +36,7 @@ When dealing with stress, I highly recommend you start with your body.
 
 **1 - Start with survival.**
 
-Before we deal with stressful demands, we need to put the body first and take care of our basic needs. We need shelter, clothing and warmth, water,food,and rest.
+Before we deal with stressful demands, we need to put the body first and take care of our basic needs. We need shelter, clothing and warmth, water, food, and rest.
 
 Looking at the basics will bring us back to the reality of survival. We can focus on earning enough money for necessities and then caring for the gift that life entrusted us with—the body.
 
