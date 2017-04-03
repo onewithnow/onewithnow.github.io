@@ -4,15 +4,15 @@ title: Archives
 permalink: /archives/
 ---
 
-## March 2017
+### March 2017
 
 - [Your Pain Is Not That Special, but You Are](/pain-free/)
 
-## February 2017
+### February 2017
 
 - [Stressed Out? Don’t Wait till Your Body Forces You to Stop](/less-stress/)
 
-## January 2017
+### January 2017
 
 - [The Soul Crushing Belief That Stops You from Even Trying](/got-nothing/)
 
