@@ -8,7 +8,7 @@ permalink: /archives/
 
 - [Your Pain Is Not That Special, but You Are](/pain-free/)
 
-### February 2017
+#### February 2017
 
 - [Stressed Out? Don’t Wait till Your Body Forces You to Stop](/less-stress/)
 
@@ -16,24 +16,24 @@ permalink: /archives/
 
 - [The Soul Crushing Belief That Stops You from Even Trying](/got-nothing/)
 
-## December 2016
+### December 2016
 
 - [Adventures in Going Nowhere](/nowhere/)
 
-## November 2016
+### November 2016
 
 - [The Chaos and Grace of Life](/grace/)
 
-## October 2016
+### October 2016
 
 - [The Peace of Not Having an Opinion](/no-opinion/)
 
-## September 2016
+### September 2016
 
 - [The Best Way to Overcome Procrastination](/value-action/)
 - [Why Simplifying Is Not Enough](/simple-not-enough/)
 
-## August 2016
+### August 2016
 
 - [Pockets of Solitude](/solitude/)
 - [The 3 Most Important Skills That Will Transform Needless Suffering](/suffer-less/)
