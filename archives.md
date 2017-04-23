@@ -4,6 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
+### April 2017
+
+- [Spiraling into Mediocrity One Bad Decision at a Time](/medio)
+
 ### March 2017
 
 - [Your Pain Is Not That Special, but You Are](/pain-free/)
