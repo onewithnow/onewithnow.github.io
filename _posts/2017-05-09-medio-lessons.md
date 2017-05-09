@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: What We Can Learn from Mediocrity about Excellence
