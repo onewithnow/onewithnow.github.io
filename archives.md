@@ -4,6 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
+### May 2017
+
+- [What We Can Learn from Mediocrity about Excellence](/medio-lessons/)
+
 ### April 2017
 
 - [Spiraling into Mediocrity One Bad Decision at a Time](/medio)
