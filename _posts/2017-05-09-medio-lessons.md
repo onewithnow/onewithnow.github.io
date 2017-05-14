@@ -28,7 +28,7 @@ I’ve distilled the following insights as the foundation for moving forward wit
 
 When asked for advice on how to get started in investing, or become smarter, Warren Buffett reached for a stack of reports, trade publications and other papers he’d brought with him and said: 
 
-> “Read 500 pages like this every day. That's how knowledge works. It builds up, like compound interest. All of you can do it, but I guarantee not many of you will do it.”
+> “Read 500 pages like this every week. That's how knowledge works. It builds up, like compound interest. All of you can do it, but I guarantee not many of you will do it.”
 
 If we want the cool and entertaining, then we can’t expect any better than mediocrity. When we start embracing the repetitive and boring, we will improve our abilities.
 
