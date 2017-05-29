@@ -6,6 +6,7 @@ permalink: /archives/
 
 ### May 2017
 
+- [The Mental Excellence Toolbox&#58; 5 Essential Skills to Significantly Improve the Quality of Your Life and Work](/deep-skills/)
 - [What We Can Learn from Mediocrity about Excellence](/medio-lessons/)
 
 ### April 2017
