@@ -93,7 +93,7 @@ When it comes to time, it’s a matter of priorities. If learning is important w
 
 For learning effectively, I recommend two resources:
 
-- [learning how to learn course](https://www.coursera.org/learn/learning-how-to-learn): It’s free, easy, and fun. You’ll learn about modes of thinking and memory, build helpful learning skills, and reduce procrastination and other harmful habits
+- [Learning how to learn course](https://www.coursera.org/learn/learning-how-to-learn): It’s free, easy, and fun. You’ll learn about modes of thinking and memory, build helpful learning skills, and reduce procrastination and other harmful habits
 - [How to Read a Book: The Classic Guide to Intelligent Reading](https://www.amazon.com/How-Read-Book-Touchstone-ebook/dp/B004PYDAPE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1494951345&sr=1-1) is the definitive book on active reading.
 
 The most important part of learning is to do it consciously. Blog posts and online articles are not enough, unless they’re part of a specific plan that includes a course or book/books. You can easily find courses that suit your preferences (video, audio, text or a combination). Take your time and make a decision then focus and work with the material with all you’ve got.
