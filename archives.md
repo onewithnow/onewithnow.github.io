@@ -7,7 +7,7 @@ permalink: /archives/
 
 ### June 2017
 
-- [A Simple Way to Clarify&#58; The Who Cares ](/who-cares/)
+- [A Simple Way to Clarify&#58; The Who Cares Experiment](/who-cares/)
 
 ### May 2017
 
