@@ -4,6 +4,9 @@ title: Archives
 permalink: /archives/
 ---
 
+### August 2017
+
+- [The Deep Pain of Insecurity That Keeps Us Stuck](/insecure/)
 
 ### June 2017
 
