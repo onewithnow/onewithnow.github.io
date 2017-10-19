@@ -4,6 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
+### October 2017
+
+- [A Fail-safe Strategy: The Five-Year-Old Guide to Free Speech](/speak/) 
+
 ### September 2017
 
 - [The Anatomy of Hate](/hate/)
