@@ -4,6 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
+### November 2017
+
+- [A Short Guide to Overcome Feeling Powerless](/power/)
+
 ### October 2017
 
 - [A Fail-safe Strategy: The Five-Year-Old Guide to Free Speech](/speak/) 
