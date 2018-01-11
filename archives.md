@@ -4,6 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
+### January 2018
+
+-[The Wisdom and Freedom of Failure](/fail)
+
 ### November 2017
 
 - [A Short Guide to Overcome Feeling Powerless](/power/)
