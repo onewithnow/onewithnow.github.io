@@ -4,9 +4,13 @@ title: Archives
 permalink: /archives/
 ---
 
+### March 2018
+
+- [Experiments in Less: Ideas to Simplify and Improve Routine](/experiment/)
+
 ### January 2018
 
-- [The Wisdom and Freedom of Failure](/fail)
+- [The Wisdom and Freedom of Failure](/fail/)
 
 ### November 2017
 
