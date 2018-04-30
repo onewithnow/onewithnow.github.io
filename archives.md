@@ -4,6 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
+### April 2018
+
+- [The Art of Knowing What to Ignore](/ignore/)
+
 ### March 2018
 
 - [Experiments in Less: Ideas to Simplify and Improve Routine](/experiment/)
