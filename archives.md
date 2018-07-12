@@ -4,6 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
+### July 2018
+
+- [Confessions of a Shallow Thinker](/shallow/)
+
 ### April 2018
 
 - [The Art of Knowing What to Ignore](/ignore/)
