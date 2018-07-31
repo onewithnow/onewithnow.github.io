@@ -6,6 +6,7 @@ permalink: /archives/
 
 ### July 2018
 
+- [When Democracy Backfires](/demofire/)
 - [Confessions of a Shallow Thinker](/shallow/)
 
 ### April 2018
