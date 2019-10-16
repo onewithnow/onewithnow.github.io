@@ -4,6 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
+### October 2019
+
+- [On Breaking Free from Stuckness](/free/)
+
 ### July 2018
 
 - [When Democracy Backfires](/demofire/)
