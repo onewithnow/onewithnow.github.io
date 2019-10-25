@@ -6,6 +6,7 @@ permalink: /archives/
 
 ### October 2019
 
+- [Time Apart from Something You Love](/apart/)
 - [On Breaking Free from Stuckness](/free/)
 
 ### July 2018
