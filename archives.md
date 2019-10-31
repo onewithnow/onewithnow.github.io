@@ -6,6 +6,7 @@ permalink: /archives/
 
 ### October 2019
 
+- [What I Learned from a Simple Toothbrush](/brush)
 - [Time Apart from Something You Love](/apart/)
 - [On Breaking Free from Stuckness](/free/)
 
