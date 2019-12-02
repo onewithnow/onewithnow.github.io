@@ -4,6 +4,10 @@ title: Archives
 permalink: /archives/
 ---
 
+### November 2019
+
+- [How to Become Aware of Our Own Seemingly Harmless Bias](/bias/)
+
 ### October 2019
 
 - [What I Learned from a Simple Toothbrush](/brush)
