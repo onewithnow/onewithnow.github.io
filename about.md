@@ -28,11 +28,11 @@ Want to get in touch? I love hearing from you.
 
 And please send me any suggestions, typos, broken links, or anything else that requires attention. I truly appreciate it.
 
-Email: [Send an email](mailto:onewithnow.connect@gmail.com)
+- [Email](mailto:onewithnow.connect@gmail.com)
 
-Twitter: [@onewithnow](http://www.twitter.com/onewithnow)
+- [Twitter](http://www.twitter.com/onewithnow)
 
-Facebook: [onewithnow](http://www.facebook.com/onewithnow) 
+- [Facebook](http://www.facebook.com/onewithnow) 
 
 *Thank you for being here.*
 
