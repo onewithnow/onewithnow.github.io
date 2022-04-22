@@ -29,9 +29,7 @@ Want to get in touch? I love hearing from you.
 And please send me any suggestions, typos, broken links, or anything else that requires attention. I truly appreciate it.
 
 - [Email](mailto:onewithnow.connect@gmail.com)
-
 - [Twitter](http://www.twitter.com/onewithnow)
-
 - [Facebook](http://www.facebook.com/onewithnow) 
 
 *Thank you for being here.*
