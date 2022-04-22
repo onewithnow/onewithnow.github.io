@@ -66,7 +66,7 @@ You don’t need to write down every detail about each task. You just need to co
 
 **5- Prepare a timeline view.** How is your day going to look like with all the tasks and time limits scheduled? Imagine that your day is the hallway. How many doors (tasks) can you handle in one day? Creating a timeline is intended to give you a rough idea of how your tasks fit into your day—not a set in stone schedule. 
 
-*You can use this [spreadsheet](https://docs.google.com/spreadsheets/d/1rgWiLRXn8JICZpO4tNIxClniWbMHyDl4nb3XEi4YeMI/edit?usp=sharing). You can save it to your Google Drive (File > Make a copy), or download it to your computer (File > Download as).*
+*You can use this [spreadsheet](https://docs.google.com/spreadsheets/d/1HcpYRhFlgFeyE5oZ4375C-7cHoeS5JWzRUBD7XkSRGk/edit?usp=sharing). You can save it to your Google Drive (File > Make a copy), or download it to your computer (File > Download as).*
 
 **6- Modify tasks and time limits to fit a realistic schedule**. If you list all your items and you realize you’ll finish by midnight (for example), you need to revise the tasks or their time limits. I don’t recommend scheduling past 6PM (assuming you start around 8-9AM). I do my best to list my tasks to end around 3:30PM (and with interruptions and distractions, I end up finishing around 5PM). 
 
