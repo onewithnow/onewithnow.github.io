@@ -4,7 +4,7 @@ title:
 permalink: /sub3/
 ---
 
-**To receive new published articles by email, choose one of the following services:**
+**To receive new articles by email, choose one of the following services:**
 
 - [Blogtrottr](https://blogtrottr.com/) or
 - [Feedrabbit](https://feedrabbit.com/)
