@@ -172,7 +172,8 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 0px solid $lightGray;
+  text-align: center;
 
   @include mobile {
     text-align: center;
@@ -197,30 +198,8 @@ img {
   }
 }
 
-
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
-.site-name {
-  margin: 0;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 30px;
-  letter-spacing: 1px;
-}
-
-
 nav {
-  float: right;
+  float: none;
   display: block;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
