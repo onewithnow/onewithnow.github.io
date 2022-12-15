@@ -183,6 +183,8 @@ img {
 .site-avatar {
   float: none;
   display: block;
+  width: 110px;
+  height:110px;
   margin: 0 auto;
 
   @include mobile {
