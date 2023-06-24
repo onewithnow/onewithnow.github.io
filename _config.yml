@@ -17,11 +17,11 @@ avatar: /images/logo.png
 
 # Social 
 
-twitter_username: onewithnow
+twitter_username:
 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-13057278-1
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
