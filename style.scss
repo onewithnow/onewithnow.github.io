@@ -181,9 +181,7 @@ img {
 
 .site-info {
   float: left;
-  display: block;
-  margin: 0 auto;
-
+  
 
   @include mobile {
     float: none;
@@ -206,7 +204,6 @@ img {
 nav {
   float: right;
   margin-top: 9px;
-  display: block;
   font-family: $helveticaNeue;
   font-size: 14px;
 
