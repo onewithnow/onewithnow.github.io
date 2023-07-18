@@ -6,10 +6,12 @@ permalink: /about/
 
 Hi there,
 
-This is a collection of articles I've written about trying to be more in the moment and less in my head. And some practical explorations. 
+This is a collection of articles I've written about trying to be more in the moment and less in my head. And other related topics.
 
 
-Want to get in touch? I love [hearing from you](mailto:onewithnow.connect@gmail.com) (no promotions, or backlink requests please).
+If you'd like to say hi or have something to share, [email](mailto:onewithnow.connect@gmail.com) me. I love hearing from you. *No promotions, or backlink requests please.*
+
+Thanks for being here!
 
 Manal
 
