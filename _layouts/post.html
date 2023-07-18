@@ -15,13 +15,13 @@ layout: default
 
 <div>
  {% if page.previous %} 
-        <h5>PREVIOUS POST: <a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title}}</a></h5>
+        <h5>PREVIOUS: <a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title}}</a></h5>
     {% endif %}
     </div>
 
     <div>
     {% if page.next %} 
-        <h5>NEXT POST: <a rel="next" href="{{ page.next.url }}">{{ page.next.title }}</a></h5>
+        <h5>NEXT: <a rel="next" href="{{ page.next.url }}">{{ page.next.title }}</a></h5>
     {% endif %}
     </div>
 
