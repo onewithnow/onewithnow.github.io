@@ -180,13 +180,13 @@ img {
 }
 
 .site-info {
-  float: none;
+  float: left;
   display: block;
   margin: 0 auto;
 
 
   @include mobile {
-    float: left;
+    float: none;
     display: block;
     margin: 0 auto;
   }
@@ -204,7 +204,7 @@ img {
 
 
 nav {
-  float: rigth;
+  float: right;
   margin-top: 9px;
   display: block;
   font-family: $helveticaNeue;
