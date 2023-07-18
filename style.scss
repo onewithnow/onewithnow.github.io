@@ -181,7 +181,8 @@ img {
 
 .site-info {
   float: left;
-   
+  margin-top: 23px; // @TODO: Vertically middle align 
+
   @include mobile {
     float: none;
     display: block;
