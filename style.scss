@@ -183,7 +183,6 @@ img {
 .site-info {
   float: none;
   display: block;
-  margin: 0 auto;
   
 
   @include mobile {
@@ -207,7 +206,7 @@ img {
 nav {
   float: none;
   display: block;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px; 
   font-family: $helveticaNeue;
   font-size: 14px;
 
