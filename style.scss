@@ -173,6 +173,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 2px solid $lightGray;
+  text-align: center;
   
   @include mobile {
     text-align: center;
@@ -180,7 +181,9 @@ img {
 }
 
 .site-info {
-  float: left;
+  float: none;
+  display: block;
+  margin: 0 auto;
   
 
   @include mobile {
@@ -202,8 +205,9 @@ img {
 
 
 nav {
-  float: right;
-  margin-top: 23px;
+  float: none;
+  display: block;
+  margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 14px;
 
