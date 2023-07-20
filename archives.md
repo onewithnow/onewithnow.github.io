@@ -313,7 +313,6 @@ permalink: /archives/
 - [The ABCs of Doing Your Own Thing](/doing-your-own-thing/)
 - [A Simple Guide to Empty Your Mind](/empty-mind/)
 - [Taking Time to Notice What You Like](/notice/)
-- [Passion - The Path of Least Resistance](/passion/)
 - [Why and How to Create a New Year’s Theme and Make It Stick](/a-new-theme/)
 
 ### 2010
@@ -324,7 +323,6 @@ permalink: /archives/
 - [3 Reasons and 3 Ways to Lighten Up](/3-reasons-and-3-ways-to-lighten-up/)
 - [Can You Make Peace with Your Painful Past?](/can-you-make-peace-with-your-painful-past/)
 - [You are Where You Need to Be](/you-are-where-you-need-to-be/)
-- [A 7-Week Journey to Peaceful Momentum](/a-7-week-journey-to-peaceful-momentum/)
 - [10 Practical Steps to Habit Changing Success](/10-practical-steps-to-habit-changing-success/)
 - [A Simple but Powerful Way to Start or Change a Habit](/a-simple-but-powerful-way-to-start-or-change-a-habit/)
 - [What If No One Remembered You or Cared About What You Do?](/what-if-no-one-remembered-you-or-cared-about-what-you-do/)
