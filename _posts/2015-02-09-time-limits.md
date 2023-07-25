@@ -102,6 +102,6 @@ Traveling through time limits is a calmer and more effective way of getting thin
 
 If you use this approach, you’ll become more aware of your work style and coping mechanism (easing stress, handling interruptions). You’ll also have a better understanding of your priorities, and how you use your time.
 
-Just give it a try. It’s been working for me so far. If you have any questions about the [spreadsheet](https://docs.google.com/spreadsheets/d/1HcpYRhFlgFeyE5oZ4375C-7cHoeS5JWzRUBD7XkSRGk/edit?usp=sharing), let me know.
+Just give it a try. It’s been working for me so far. 
 
 To mindful, and relaxed productivity!
