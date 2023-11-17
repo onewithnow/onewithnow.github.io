@@ -13,5 +13,3 @@ If you'd like to say hi or have something to share, [email](mailto:onewithnow.co
 
 Thanks for being here!
 
-Manal
-
